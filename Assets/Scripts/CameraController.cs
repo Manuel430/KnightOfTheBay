@@ -28,16 +28,16 @@ public class CameraController : MonoBehaviour
     {
         RoomLayout newRoom = GetRoomForPlayer(playerLoc.position);
 
-        if(newRoom != null && newRoom != currentRoom && !isTransitioning)
+        if (newRoom != null && newRoom != currentRoom && !isTransitioning)
         {
             StartCoroutine(CameraTransition(newRoom));
         }
 
-        if(isTransitioning && currentRoom != null)
+        if (!isTransitioning && currentRoom != null)
         {
-            if(currentRoom.followPlayer)
+            if (currentRoom.followPlayer)
             {
-                if(currentRoom.verticalRoom)
+                if (currentRoom.verticalRoom)
                 {
                     MoveCameraVertically(currentRoom);
                 }
@@ -55,9 +55,9 @@ public class CameraController : MonoBehaviour
 
     RoomLayout GetRoomForPlayer(Vector3 playerPos)
     {
-        foreach(RoomLayout room in rooms)
+        foreach (RoomLayout room in rooms)
         {
-            if(IsPlayerInRoom(playerPos, room))
+            if (IsPlayerInRoom(playerPos, room))
             {
                 return room;
             }
@@ -80,7 +80,7 @@ public class CameraController : MonoBehaviour
         Vector3 maxBounds = room.roomCenter + room.roomSize / 2;
 
         Vector3 followPlayer = new Vector3(playerLoc.position.x, playerLoc.position.y, transform.position.z);
-
+        
         float clampX = Mathf.Clamp(followPlayer.x, minBounds.x + CameraHalfWidth(), maxBounds.x - CameraHalfWidth());
         float clampY = Mathf.Clamp(followPlayer.y, minBounds.y + CameraHalfHeight(), maxBounds.y - CameraHalfHeight());
 
