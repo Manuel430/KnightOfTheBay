@@ -118,6 +118,11 @@ public class CameraController : MonoBehaviour
     {
         isTransitioning = true;
 
+        Vector3 playerPrevPos = transform.position;
+        Vector3 playerCurrentPos = playerLoc.position;
+
+        bool isVerticalTransition = Mathf.Abs(playerCurrentPos.y - playerPrevPos.y) > Mathf.Abs(playerCurrentPos.x - playerPrevPos.x);
+
         Vector3 playerPos = new Vector3(playerLoc.position.x, playerLoc.position.y, transform.position.z);
 
         Vector2 minBounds = newRoom.roomCenter - newRoom.roomSize / 2;
@@ -127,6 +132,16 @@ public class CameraController : MonoBehaviour
         float clampY = Mathf.Clamp(playerPos.y, minBounds.y + CameraHalfHeight(), maxBounds.y - CameraHalfHeight());
 
         Vector3 targetPos = new Vector3(clampX, clampY, transform.position.z);
+
+        if(isVerticalTransition)
+        {
+            targetPos = new Vector3(transform.position.x, clampY, transform.position.z);
+        }
+        else
+        {
+            targetPos = new Vector3(clampX, transform.position.y, transform.position.z);
+        }
+
         Vector3 startPos = transform.position;
 
         float elapsedTime = 0;
