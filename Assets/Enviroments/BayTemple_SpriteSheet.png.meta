@@ -106,6 +106,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -278,7 +291,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_8
+      name: Area03_Tile_01
       rect:
         serializedVersion: 2
         x: 176
@@ -299,7 +312,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_9
+      name: Area03_Tile_02
       rect:
         serializedVersion: 2
         x: 192
@@ -320,7 +333,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_10
+      name: Area03_Tile_03
       rect:
         serializedVersion: 2
         x: 208
@@ -341,7 +354,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_11
+      name: Area03_Tile_04
       rect:
         serializedVersion: 2
         x: 224
@@ -362,7 +375,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_12
+      name: Area04_Tile_01
       rect:
         serializedVersion: 2
         x: 256
@@ -383,7 +396,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_13
+      name: Area04_Tile_02
       rect:
         serializedVersion: 2
         x: 272
@@ -404,7 +417,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_14
+      name: Area04_Tile_03
       rect:
         serializedVersion: 2
         x: 288
@@ -425,7 +438,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_15
+      name: Area04_Tile_04
       rect:
         serializedVersion: 2
         x: 304
@@ -530,7 +543,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_20
+      name: AreaSecret_Tile_01
       rect:
         serializedVersion: 2
         x: 416
@@ -551,7 +564,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_21
+      name: AreaSecret_Tile_02
       rect:
         serializedVersion: 2
         x: 432
@@ -572,7 +585,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_22
+      name: AreaSecret_Tile_03
       rect:
         serializedVersion: 2
         x: 448
@@ -593,7 +606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_23
+      name: AreaSecret_Tile_04
       rect:
         serializedVersion: 2
         x: 464
@@ -950,7 +963,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_40
+      name: Area03_Tile_05
       rect:
         serializedVersion: 2
         x: 176
@@ -971,7 +984,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_41
+      name: Area03_Tile_06
       rect:
         serializedVersion: 2
         x: 192
@@ -992,7 +1005,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_42
+      name: Area03_Tile_07
       rect:
         serializedVersion: 2
         x: 208
@@ -1013,7 +1026,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_43
+      name: Area03_Tile_08
       rect:
         serializedVersion: 2
         x: 224
@@ -1034,7 +1047,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_44
+      name: Area04_Tile_05
       rect:
         serializedVersion: 2
         x: 256
@@ -1055,7 +1068,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_45
+      name: Area04_Tile_06
       rect:
         serializedVersion: 2
         x: 272
@@ -1076,7 +1089,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_46
+      name: Area04_Tile_07
       rect:
         serializedVersion: 2
         x: 288
@@ -1097,7 +1110,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_47
+      name: Area04_Tile_08
       rect:
         serializedVersion: 2
         x: 304
@@ -1202,7 +1215,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_52
+      name: AreaSecret_Tile_05
       rect:
         serializedVersion: 2
         x: 416
@@ -1223,7 +1236,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_53
+      name: AreaSecret_Tile_06
       rect:
         serializedVersion: 2
         x: 432
@@ -1244,7 +1257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_54
+      name: AreaSecret_Tile_07
       rect:
         serializedVersion: 2
         x: 448
@@ -1265,7 +1278,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_55
+      name: AreaSecret_Tile_08
       rect:
         serializedVersion: 2
         x: 464
@@ -1706,7 +1719,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_76
+      name: Area03_Tile_09
       rect:
         serializedVersion: 2
         x: 176
@@ -1727,7 +1740,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_77
+      name: Area03_Tile_10
       rect:
         serializedVersion: 2
         x: 192
@@ -1748,7 +1761,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_78
+      name: Area03_Tile_11
       rect:
         serializedVersion: 2
         x: 208
@@ -1769,7 +1782,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_79
+      name: Area03_Tile_12
       rect:
         serializedVersion: 2
         x: 224
@@ -1790,7 +1803,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_80
+      name: Area04_Tile_09
       rect:
         serializedVersion: 2
         x: 256
@@ -1811,7 +1824,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_81
+      name: Area04_Tile_10
       rect:
         serializedVersion: 2
         x: 272
@@ -1832,7 +1845,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_82
+      name: Area04_Tile_11
       rect:
         serializedVersion: 2
         x: 288
@@ -1853,7 +1866,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_83
+      name: Area04_Tile_12
       rect:
         serializedVersion: 2
         x: 304
@@ -1958,7 +1971,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_88
+      name: AreaSecret_Tile_09
       rect:
         serializedVersion: 2
         x: 416
@@ -1979,7 +1992,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_89
+      name: AreaSecret_Tile_10
       rect:
         serializedVersion: 2
         x: 432
@@ -2000,7 +2013,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_90
+      name: AreaSecret_Tile_11
       rect:
         serializedVersion: 2
         x: 448
@@ -2021,7 +2034,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_91
+      name: AreaSecret_Tile_12
       rect:
         serializedVersion: 2
         x: 464
@@ -2462,7 +2475,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_112
+      name: Area03_Tile_13
       rect:
         serializedVersion: 2
         x: 176
@@ -2483,7 +2496,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_113
+      name: Area03_Tile_14
       rect:
         serializedVersion: 2
         x: 192
@@ -2504,7 +2517,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_114
+      name: Area03_Tile_15
       rect:
         serializedVersion: 2
         x: 208
@@ -2525,7 +2538,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_115
+      name: Area03_Tile_16
       rect:
         serializedVersion: 2
         x: 224
@@ -2546,7 +2559,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_116
+      name: Area04_Tile_13
       rect:
         serializedVersion: 2
         x: 256
@@ -2567,7 +2580,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_117
+      name: Area04_Tile_14
       rect:
         serializedVersion: 2
         x: 272
@@ -2588,7 +2601,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_118
+      name: Area04_Tile_15
       rect:
         serializedVersion: 2
         x: 288
@@ -2609,7 +2622,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_119
+      name: Area04_Tile_16
       rect:
         serializedVersion: 2
         x: 304
@@ -2714,7 +2727,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_124
+      name: AreaSecret_Tile_13
       rect:
         serializedVersion: 2
         x: 416
@@ -2735,7 +2748,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_125
+      name: AreaSecret_Tile_14
       rect:
         serializedVersion: 2
         x: 432
@@ -2756,7 +2769,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_126
+      name: AreaSecret_Tile_15
       rect:
         serializedVersion: 2
         x: 448
@@ -2777,7 +2790,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_127
+      name: AreaSecret_Tile_16
       rect:
         serializedVersion: 2
         x: 464
@@ -3134,7 +3147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_144
+      name: Area03_Tile_17
       rect:
         serializedVersion: 2
         x: 176
@@ -3155,7 +3168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_145
+      name: Area03_Tile_18
       rect:
         serializedVersion: 2
         x: 192
@@ -3176,7 +3189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_146
+      name: Area04_Tile_17
       rect:
         serializedVersion: 2
         x: 256
@@ -3197,7 +3210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_147
+      name: Area04_Tile_18
       rect:
         serializedVersion: 2
         x: 272
@@ -3260,7 +3273,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_150
+      name: AreaSecret_Tile_17
       rect:
         serializedVersion: 2
         x: 416
@@ -3281,7 +3294,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_151
+      name: AreaSecret_Tile_18
       rect:
         serializedVersion: 2
         x: 432
@@ -3638,7 +3651,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_168
+      name: Area03_Tile_19
       rect:
         serializedVersion: 2
         x: 176
@@ -3659,7 +3672,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_169
+      name: Area03_Tile_20
       rect:
         serializedVersion: 2
         x: 192
@@ -3680,7 +3693,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_170
+      name: Area04_Tile_19
       rect:
         serializedVersion: 2
         x: 256
@@ -3701,7 +3714,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_171
+      name: Area04_Tile_20
       rect:
         serializedVersion: 2
         x: 272
@@ -3764,7 +3777,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_174
+      name: AreaSecret_Tile_19
       rect:
         serializedVersion: 2
         x: 416
@@ -3785,7 +3798,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_175
+      name: AreaSecret_Tile_20
       rect:
         serializedVersion: 2
         x: 432
@@ -4058,7 +4071,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_188
+      name: Area04_Pillar_01
       rect:
         serializedVersion: 2
         x: 256
@@ -4079,7 +4092,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_189
+      name: Area04_Pillar_02
       rect:
         serializedVersion: 2
         x: 272
@@ -4100,7 +4113,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_190
+      name: Area04_Pillar_03
       rect:
         serializedVersion: 2
         x: 288
@@ -4121,7 +4134,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_191
+      name: Area04_Pillar_04
       rect:
         serializedVersion: 2
         x: 304
@@ -4478,7 +4491,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_216
+      name: Area04_Pillar_05
       rect:
         serializedVersion: 2
         x: 272
@@ -4499,7 +4512,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_217
+      name: Area04_Pillar_06
       rect:
         serializedVersion: 2
         x: 288
@@ -4835,7 +4848,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_241
+      name: Area04_Pillar_07
       rect:
         serializedVersion: 2
         x: 272
@@ -4856,7 +4869,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_242
+      name: Area04_Pillar_08
       rect:
         serializedVersion: 2
         x: 288
@@ -5213,7 +5226,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_259
+      name: Area04_Pillar_09
       rect:
         serializedVersion: 2
         x: 272
@@ -5234,7 +5247,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_260
+      name: Area04_Pillar_10
       rect:
         serializedVersion: 2
         x: 288
@@ -5591,7 +5604,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_277
+      name: Area04_Pillar_11
       rect:
         serializedVersion: 2
         x: 272
@@ -5612,7 +5625,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_278
+      name: Area04_Pillar_12
       rect:
         serializedVersion: 2
         x: 288
@@ -5969,7 +5982,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_295
+      name: SecretShrine_01
       rect:
         serializedVersion: 2
         x: 736
@@ -5990,7 +6003,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_296
+      name: SecretShrine_02
       rect:
         serializedVersion: 2
         x: 752
@@ -6011,7 +6024,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_297
+      name: SecretShrine_03
       rect:
         serializedVersion: 2
         x: 768
@@ -6284,7 +6297,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_310
+      name: Area04_Pillar_13
       rect:
         serializedVersion: 2
         x: 256
@@ -6305,7 +6318,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_311
+      name: Area04_Pillar_14
       rect:
         serializedVersion: 2
         x: 272
@@ -6326,7 +6339,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_312
+      name: Area04_Pillar_15
       rect:
         serializedVersion: 2
         x: 288
@@ -6347,7 +6360,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_313
+      name: Area04_Pillar_16
       rect:
         serializedVersion: 2
         x: 304
@@ -7124,7 +7137,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_350
+      name: Area03_Banner_01
       rect:
         serializedVersion: 2
         x: 640
@@ -7880,7 +7893,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_386
+      name: Area03_Banner_02
       rect:
         serializedVersion: 2
         x: 640
@@ -8006,7 +8019,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_392
+      name: Area03_Banner_03
       rect:
         serializedVersion: 2
         x: 640
@@ -8510,7 +8523,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_416
+      name: Area03_Banner_04
       rect:
         serializedVersion: 2
         x: 640
@@ -13126,65 +13139,111 @@ TextureImporter:
       Area02_Tile_18: 258459970
       Area02_Tile_19: -863176245
       Area02_Tile_20: 852967995
+      Area03_Banner_01: -634041307
+      Area03_Banner_02: 715904366
+      Area03_Banner_03: 1749414289
+      Area03_Banner_04: 1947358982
+      Area03_Tile_01: 1545872426
+      Area03_Tile_02: 1458242331
+      Area03_Tile_03: 749629217
+      Area03_Tile_04: 1907387042
+      Area03_Tile_05: -2028693736
+      Area03_Tile_06: 429936546
+      Area03_Tile_07: -1793466632
+      Area03_Tile_08: 288733656
+      Area03_Tile_09: -1478433790
+      Area03_Tile_10: -1422859765
+      Area03_Tile_11: -840147226
+      Area03_Tile_12: -1280731737
+      Area03_Tile_13: -422472911
+      Area03_Tile_14: 226920456
+      Area03_Tile_15: -788904715
+      Area03_Tile_16: 1164783011
+      Area03_Tile_17: -323674134
+      Area03_Tile_18: -270265862
+      Area03_Tile_19: 1425803926
+      Area03_Tile_20: 276496799
+      Area04_Pillar_01: -1874602219
+      Area04_Pillar_02: 1719418784
+      Area04_Pillar_03: -1987214796
+      Area04_Pillar_04: 208667939
+      Area04_Pillar_05: 795693325
+      Area04_Pillar_06: 1893659368
+      Area04_Pillar_07: -251070848
+      Area04_Pillar_08: 1626251846
+      Area04_Pillar_09: -186625967
+      Area04_Pillar_10: 752515776
+      Area04_Pillar_11: -1577552963
+      Area04_Pillar_12: 1600083727
+      Area04_Pillar_13: -2094263860
+      Area04_Pillar_14: -1066058864
+      Area04_Pillar_15: 417724620
+      Area04_Pillar_16: 1184713697
+      Area04_Tile_01: -74313417
+      Area04_Tile_02: -780712601
+      Area04_Tile_03: -92317461
+      Area04_Tile_04: 1015513796
+      Area04_Tile_05: 1093489376
+      Area04_Tile_06: -15794284
+      Area04_Tile_07: -617726386
+      Area04_Tile_08: -1205479836
+      Area04_Tile_09: 684770893
+      Area04_Tile_10: 1364480698
+      Area04_Tile_11: 761427516
+      Area04_Tile_12: -73842659
+      Area04_Tile_13: -1107673572
+      Area04_Tile_14: 482898589
+      Area04_Tile_15: 17586199
+      Area04_Tile_16: 1380955444
+      Area04_Tile_17: 1559873867
+      Area04_Tile_18: -1892784313
+      Area04_Tile_19: 1077555580
+      Area04_Tile_20: -1548831963
+      AreaSecret_Tile_01: 85362168
+      AreaSecret_Tile_02: 2123243460
+      AreaSecret_Tile_03: 799669079
+      AreaSecret_Tile_04: -1162896452
+      AreaSecret_Tile_05: 1302330844
+      AreaSecret_Tile_06: 1490815135
+      AreaSecret_Tile_07: 320869379
+      AreaSecret_Tile_08: -159293888
+      AreaSecret_Tile_09: -1863533766
+      AreaSecret_Tile_10: 1097619131
+      AreaSecret_Tile_11: 164042642
+      AreaSecret_Tile_12: 749663172
+      AreaSecret_Tile_13: -332400747
+      AreaSecret_Tile_14: -1463750244
+      AreaSecret_Tile_15: -1420553191
+      AreaSecret_Tile_16: 1641146693
+      AreaSecret_Tile_17: -956353930
+      AreaSecret_Tile_18: -2019955714
+      AreaSecret_Tile_19: -1318246036
+      AreaSecret_Tile_20: -412827265
       BayTemple_SpriteSheet_0: 1235064673
-      BayTemple_SpriteSheet_10: 749629217
-      BayTemple_SpriteSheet_11: 1907387042
-      BayTemple_SpriteSheet_112: -422472911
-      BayTemple_SpriteSheet_113: 226920456
-      BayTemple_SpriteSheet_114: -788904715
-      BayTemple_SpriteSheet_115: 1164783011
-      BayTemple_SpriteSheet_116: -1107673572
-      BayTemple_SpriteSheet_117: 482898589
-      BayTemple_SpriteSheet_118: 17586199
-      BayTemple_SpriteSheet_119: 1380955444
-      BayTemple_SpriteSheet_12: -74313417
       BayTemple_SpriteSheet_120: 1372104540
       BayTemple_SpriteSheet_121: 2021424993
       BayTemple_SpriteSheet_122: -1736359985
       BayTemple_SpriteSheet_123: 1662188293
-      BayTemple_SpriteSheet_124: -332400747
-      BayTemple_SpriteSheet_125: -1463750244
-      BayTemple_SpriteSheet_126: -1420553191
-      BayTemple_SpriteSheet_127: 1641146693
-      BayTemple_SpriteSheet_13: -780712601
       BayTemple_SpriteSheet_132: -1517448899
       BayTemple_SpriteSheet_133: -2002573795
       BayTemple_SpriteSheet_134: 1552897902
       BayTemple_SpriteSheet_135: -356707396
-      BayTemple_SpriteSheet_14: -92317461
-      BayTemple_SpriteSheet_144: -323674134
-      BayTemple_SpriteSheet_145: -270265862
-      BayTemple_SpriteSheet_146: 1559873867
-      BayTemple_SpriteSheet_147: -1892784313
       BayTemple_SpriteSheet_148: -1071362317
       BayTemple_SpriteSheet_149: 1093009460
-      BayTemple_SpriteSheet_15: 1015513796
-      BayTemple_SpriteSheet_150: -956353930
-      BayTemple_SpriteSheet_151: -2019955714
       BayTemple_SpriteSheet_156: 1508461391
       BayTemple_SpriteSheet_157: 574887220
       BayTemple_SpriteSheet_158: 270202775
       BayTemple_SpriteSheet_159: -915760161
       BayTemple_SpriteSheet_16: 43276405
-      BayTemple_SpriteSheet_168: 1425803926
-      BayTemple_SpriteSheet_169: 276496799
       BayTemple_SpriteSheet_17: -1514769351
-      BayTemple_SpriteSheet_170: 1077555580
-      BayTemple_SpriteSheet_171: -1548831963
       BayTemple_SpriteSheet_172: -525962634
       BayTemple_SpriteSheet_173: 1822398173
-      BayTemple_SpriteSheet_174: -1318246036
-      BayTemple_SpriteSheet_175: -412827265
       BayTemple_SpriteSheet_18: -945650692
       BayTemple_SpriteSheet_184: 1710811114
       BayTemple_SpriteSheet_185: -2064912023
       BayTemple_SpriteSheet_186: 1862239398
       BayTemple_SpriteSheet_187: 602935865
-      BayTemple_SpriteSheet_188: -1874602219
-      BayTemple_SpriteSheet_189: 1719418784
       BayTemple_SpriteSheet_19: 1377198524
-      BayTemple_SpriteSheet_190: -1987214796
-      BayTemple_SpriteSheet_191: 208667939
       BayTemple_SpriteSheet_192: -848044099
       BayTemple_SpriteSheet_193: -1579777436
       BayTemple_SpriteSheet_194: -286219134
@@ -13193,21 +13252,16 @@ TextureImporter:
       BayTemple_SpriteSheet_197: -848774539
       BayTemple_SpriteSheet_198: -588482087
       BayTemple_SpriteSheet_199: -1769729607
-      BayTemple_SpriteSheet_20: 85362168
       BayTemple_SpriteSheet_200: -1406531650
       BayTemple_SpriteSheet_201: -1401447668
       BayTemple_SpriteSheet_202: 1081288244
       BayTemple_SpriteSheet_203: 1368743548
       BayTemple_SpriteSheet_208: 939154779
       BayTemple_SpriteSheet_209: 1819266747
-      BayTemple_SpriteSheet_21: 2123243460
       BayTemple_SpriteSheet_214: 1497478180
       BayTemple_SpriteSheet_215: -1280864106
-      BayTemple_SpriteSheet_216: 795693325
-      BayTemple_SpriteSheet_217: 1893659368
       BayTemple_SpriteSheet_218: -1907732208
       BayTemple_SpriteSheet_219: -224341401
-      BayTemple_SpriteSheet_22: 799669079
       BayTemple_SpriteSheet_220: 1901152509
       BayTemple_SpriteSheet_221: 609220250
       BayTemple_SpriteSheet_222: -1572940864
@@ -13216,20 +13270,15 @@ TextureImporter:
       BayTemple_SpriteSheet_225: -1629674447
       BayTemple_SpriteSheet_226: 100592694
       BayTemple_SpriteSheet_227: -1367714032
-      BayTemple_SpriteSheet_23: -1162896452
       BayTemple_SpriteSheet_234: -1154892744
       BayTemple_SpriteSheet_239: -1598517368
       BayTemple_SpriteSheet_240: 832811660
-      BayTemple_SpriteSheet_241: -251070848
-      BayTemple_SpriteSheet_242: 1626251846
       BayTemple_SpriteSheet_243: 114429355
       BayTemple_SpriteSheet_244: -1368702604
       BayTemple_SpriteSheet_251: 427015081
       BayTemple_SpriteSheet_252: 1182333315
       BayTemple_SpriteSheet_257: 2031954331
       BayTemple_SpriteSheet_258: 966751778
-      BayTemple_SpriteSheet_259: -186625967
-      BayTemple_SpriteSheet_260: 752515776
       BayTemple_SpriteSheet_261: -1321023089
       BayTemple_SpriteSheet_262: -566118049
       BayTemple_SpriteSheet_263: -661270917
@@ -13242,8 +13291,6 @@ TextureImporter:
       BayTemple_SpriteSheet_270: -868139992
       BayTemple_SpriteSheet_275: -872962402
       BayTemple_SpriteSheet_276: -152289148
-      BayTemple_SpriteSheet_277: -1577552963
-      BayTemple_SpriteSheet_278: 1600083727
       BayTemple_SpriteSheet_279: -1379398630
       BayTemple_SpriteSheet_28: 1686725823
       BayTemple_SpriteSheet_280: -529253294
@@ -13256,19 +13303,12 @@ TextureImporter:
       BayTemple_SpriteSheet_287: 866671185
       BayTemple_SpriteSheet_288: -1203664955
       BayTemple_SpriteSheet_29: 2081157716
-      BayTemple_SpriteSheet_295: -514483337
-      BayTemple_SpriteSheet_296: -1030792040
-      BayTemple_SpriteSheet_297: 1032045479
       BayTemple_SpriteSheet_30: 2090141788
       BayTemple_SpriteSheet_306: -314884125
       BayTemple_SpriteSheet_307: -672603789
       BayTemple_SpriteSheet_308: -422804582
       BayTemple_SpriteSheet_309: 1675218308
       BayTemple_SpriteSheet_31: -150061438
-      BayTemple_SpriteSheet_310: -2094263860
-      BayTemple_SpriteSheet_311: -1066058864
-      BayTemple_SpriteSheet_312: 417724620
-      BayTemple_SpriteSheet_313: 1184713697
       BayTemple_SpriteSheet_314: 721898756
       BayTemple_SpriteSheet_315: 1535810874
       BayTemple_SpriteSheet_316: 236581479
@@ -13298,7 +13338,6 @@ TextureImporter:
       BayTemple_SpriteSheet_346: -1496471454
       BayTemple_SpriteSheet_347: -456685848
       BayTemple_SpriteSheet_349: -286853559
-      BayTemple_SpriteSheet_350: -634041307
       BayTemple_SpriteSheet_351: 1378440791
       BayTemple_SpriteSheet_352: 85213026
       BayTemple_SpriteSheet_353: -2021034394
@@ -13327,18 +13366,15 @@ TextureImporter:
       BayTemple_SpriteSheet_382: -480657670
       BayTemple_SpriteSheet_383: 264611122
       BayTemple_SpriteSheet_385: 802104058
-      BayTemple_SpriteSheet_386: 715904366
       BayTemple_SpriteSheet_387: 465803250
       BayTemple_SpriteSheet_388: -1318543706
       BayTemple_SpriteSheet_389: 952740773
       BayTemple_SpriteSheet_391: 2147034593
-      BayTemple_SpriteSheet_392: 1749414289
       BayTemple_SpriteSheet_393: 919018961
       BayTemple_SpriteSheet_394: 253750727
       BayTemple_SpriteSheet_395: 558788962
       BayTemple_SpriteSheet_398: -1436005687
       BayTemple_SpriteSheet_399: 1263984531
-      BayTemple_SpriteSheet_40: -2028693736
       BayTemple_SpriteSheet_400: -1392061865
       BayTemple_SpriteSheet_401: 1098471086
       BayTemple_SpriteSheet_402: -2023317640
@@ -13348,17 +13384,14 @@ TextureImporter:
       BayTemple_SpriteSheet_407: 1527059892
       BayTemple_SpriteSheet_408: 898079447
       BayTemple_SpriteSheet_409: -32976695
-      BayTemple_SpriteSheet_41: 429936546
       BayTemple_SpriteSheet_410: 1854365859
       BayTemple_SpriteSheet_411: -1845821509
       BayTemple_SpriteSheet_412: 1677034556
       BayTemple_SpriteSheet_413: -567158288
       BayTemple_SpriteSheet_415: 208409917
-      BayTemple_SpriteSheet_416: 1947358982
       BayTemple_SpriteSheet_417: -398536301
       BayTemple_SpriteSheet_418: -103288156
       BayTemple_SpriteSheet_419: 785168260
-      BayTemple_SpriteSheet_42: -1793466632
       BayTemple_SpriteSheet_423: -2077738871
       BayTemple_SpriteSheet_424: -1644121319
       BayTemple_SpriteSheet_425: 1370284168
@@ -13366,7 +13399,6 @@ TextureImporter:
       BayTemple_SpriteSheet_427: 472970053
       BayTemple_SpriteSheet_428: 1981894006
       BayTemple_SpriteSheet_429: 1094638166
-      BayTemple_SpriteSheet_43: 288733656
       BayTemple_SpriteSheet_430: -438772002
       BayTemple_SpriteSheet_431: -419500641
       BayTemple_SpriteSheet_432: 782229873
@@ -13376,7 +13408,6 @@ TextureImporter:
       BayTemple_SpriteSheet_437: 398019092
       BayTemple_SpriteSheet_438: -1865790664
       BayTemple_SpriteSheet_439: -2037451554
-      BayTemple_SpriteSheet_44: 1093489376
       BayTemple_SpriteSheet_442: -46171212
       BayTemple_SpriteSheet_443: 2000495071
       BayTemple_SpriteSheet_444: 182014856
@@ -13384,7 +13415,6 @@ TextureImporter:
       BayTemple_SpriteSheet_447: 928375843
       BayTemple_SpriteSheet_448: 969163574
       BayTemple_SpriteSheet_449: 2059431040
-      BayTemple_SpriteSheet_45: -15794284
       BayTemple_SpriteSheet_450: -645427282
       BayTemple_SpriteSheet_451: -657385167
       BayTemple_SpriteSheet_452: 1885258700
@@ -13395,7 +13425,6 @@ TextureImporter:
       BayTemple_SpriteSheet_457: 798422473
       BayTemple_SpriteSheet_458: -271951049
       BayTemple_SpriteSheet_459: -538056102
-      BayTemple_SpriteSheet_46: -617726386
       BayTemple_SpriteSheet_460: -387409476
       BayTemple_SpriteSheet_461: -1926226188
       BayTemple_SpriteSheet_462: -1334982804
@@ -13404,7 +13433,6 @@ TextureImporter:
       BayTemple_SpriteSheet_466: -27585688
       BayTemple_SpriteSheet_467: -454734381
       BayTemple_SpriteSheet_468: 2010361506
-      BayTemple_SpriteSheet_47: -1205479836
       BayTemple_SpriteSheet_471: -714612650
       BayTemple_SpriteSheet_472: 1368795890
       BayTemple_SpriteSheet_473: 610866028
@@ -13448,7 +13476,6 @@ TextureImporter:
       BayTemple_SpriteSheet_517: -159322750
       BayTemple_SpriteSheet_518: 1304150967
       BayTemple_SpriteSheet_519: 1941931082
-      BayTemple_SpriteSheet_52: 1302330844
       BayTemple_SpriteSheet_520: -97464749
       BayTemple_SpriteSheet_521: 1452117106
       BayTemple_SpriteSheet_522: 571577537
@@ -13459,7 +13486,6 @@ TextureImporter:
       BayTemple_SpriteSheet_527: -1349727125
       BayTemple_SpriteSheet_528: -122073709
       BayTemple_SpriteSheet_529: 232772815
-      BayTemple_SpriteSheet_53: 1490815135
       BayTemple_SpriteSheet_530: -1800188092
       BayTemple_SpriteSheet_531: -1795293521
       BayTemple_SpriteSheet_532: -2093783990
@@ -13470,7 +13496,6 @@ TextureImporter:
       BayTemple_SpriteSheet_537: -178932821
       BayTemple_SpriteSheet_538: -1147165959
       BayTemple_SpriteSheet_539: -2077267973
-      BayTemple_SpriteSheet_54: 320869379
       BayTemple_SpriteSheet_540: -1059300086
       BayTemple_SpriteSheet_541: 495069594
       BayTemple_SpriteSheet_543: 28527106
@@ -13480,7 +13505,6 @@ TextureImporter:
       BayTemple_SpriteSheet_547: -1351631648
       BayTemple_SpriteSheet_548: -2053171195
       BayTemple_SpriteSheet_549: -1825143750
-      BayTemple_SpriteSheet_55: -159293888
       BayTemple_SpriteSheet_550: -1082078473
       BayTemple_SpriteSheet_552: 1752847104
       BayTemple_SpriteSheet_553: -308203090
@@ -13555,24 +13579,10 @@ TextureImporter:
       BayTemple_SpriteSheet_623: 2054875659
       BayTemple_SpriteSheet_624: -1086469862
       BayTemple_SpriteSheet_63: -272692810
-      BayTemple_SpriteSheet_76: -1478433790
-      BayTemple_SpriteSheet_77: -1422859765
-      BayTemple_SpriteSheet_78: -840147226
-      BayTemple_SpriteSheet_79: -1280731737
-      BayTemple_SpriteSheet_8: 1545872426
-      BayTemple_SpriteSheet_80: 684770893
-      BayTemple_SpriteSheet_81: 1364480698
-      BayTemple_SpriteSheet_82: 761427516
-      BayTemple_SpriteSheet_83: -73842659
       BayTemple_SpriteSheet_84: -399258097
       BayTemple_SpriteSheet_85: -781010342
       BayTemple_SpriteSheet_86: 2086359817
       BayTemple_SpriteSheet_87: -1619310983
-      BayTemple_SpriteSheet_88: -1863533766
-      BayTemple_SpriteSheet_89: 1097619131
-      BayTemple_SpriteSheet_9: 1458242331
-      BayTemple_SpriteSheet_90: 164042642
-      BayTemple_SpriteSheet_91: 749663172
       BayTemple_SpriteSheet_96: -104820956
       BayTemple_SpriteSheet_97: 839847801
       BayTemple_SpriteSheet_98: -1700694906
@@ -13603,6 +13613,9 @@ TextureImporter:
       KeyHole_Area03: -568616113
       KeyHole_Area04: -1927148488
       KeyHole_Area05: -1664817563
+      SecretShrine_01: -514483337
+      SecretShrine_02: -1030792040
+      SecretShrine_03: 1032045479
       Shrine_Right_01: -480083183
       Shrine_Right_02: 954520763
       Shrine_Right_03: -1501721415
