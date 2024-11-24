@@ -711,7 +711,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_28
+      name: Shrine_Left_01
       rect:
         serializedVersion: 2
         x: 592
@@ -732,7 +732,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_29
+      name: Shrine_Left_02
       rect:
         serializedVersion: 2
         x: 608
@@ -753,7 +753,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_30
+      name: Shrine_Left_03
       rect:
         serializedVersion: 2
         x: 624
@@ -774,7 +774,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_31
+      name: Shrine_Left_04
       rect:
         serializedVersion: 2
         x: 640
@@ -1383,7 +1383,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_60
+      name: Shrine_Left_05
       rect:
         serializedVersion: 2
         x: 592
@@ -1404,7 +1404,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_61
+      name: Shrine_Left_06
       rect:
         serializedVersion: 2
         x: 608
@@ -1425,7 +1425,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_62
+      name: Shrine_Left_07
       rect:
         serializedVersion: 2
         x: 624
@@ -1446,7 +1446,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_63
+      name: Shrine_Left_08
       rect:
         serializedVersion: 2
         x: 640
@@ -2139,7 +2139,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_96
+      name: Shrine_Left_09
       rect:
         serializedVersion: 2
         x: 592
@@ -2160,7 +2160,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_97
+      name: Shrine_Left_10
       rect:
         serializedVersion: 2
         x: 608
@@ -2181,7 +2181,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_98
+      name: Shrine_Left_11
       rect:
         serializedVersion: 2
         x: 624
@@ -2202,7 +2202,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_99
+      name: Shrine_Left_12
       rect:
         serializedVersion: 2
         x: 640
@@ -2895,7 +2895,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_132
+      name: Shrine_Left_13
       rect:
         serializedVersion: 2
         x: 608
@@ -2916,7 +2916,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_133
+      name: Shrine_Left_14
       rect:
         serializedVersion: 2
         x: 624
@@ -2937,7 +2937,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_134
+      name: Shrine_Left_15
       rect:
         serializedVersion: 2
         x: 640
@@ -2958,7 +2958,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_135
+      name: Shrine_Left_16
       rect:
         serializedVersion: 2
         x: 656
@@ -3399,7 +3399,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_156
+      name: Shrine_Left_17
       rect:
         serializedVersion: 2
         x: 592
@@ -3420,7 +3420,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_157
+      name: Shrine_Left_18
       rect:
         serializedVersion: 2
         x: 608
@@ -3441,7 +3441,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_158
+      name: Shrine_Left_19
       rect:
         serializedVersion: 2
         x: 624
@@ -3462,7 +3462,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_159
+      name: Shrine_Left_20
       rect:
         serializedVersion: 2
         x: 640
@@ -9678,7 +9678,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_471
+      name: Area02_BayStatue_01
       rect:
         serializedVersion: 2
         x: 352
@@ -9699,7 +9699,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_472
+      name: Area02_BayStatue_02
       rect:
         serializedVersion: 2
         x: 368
@@ -10056,7 +10056,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_489
+      name: Area02_Sword_01
       rect:
         serializedVersion: 2
         x: 656
@@ -10287,7 +10287,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_500
+      name: Area02_BayStatue_03
       rect:
         serializedVersion: 2
         x: 352
@@ -10308,7 +10308,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_501
+      name: Area02_BayStatue_04
       rect:
         serializedVersion: 2
         x: 368
@@ -10665,7 +10665,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_518
+      name: Area02_Sword_02
       rect:
         serializedVersion: 2
         x: 656
@@ -11190,7 +11190,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_543
+      name: Area02_Torch_Right_01
       rect:
         serializedVersion: 2
         x: 368
@@ -11337,7 +11337,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_550
+      name: Area02_Torch_Left_01
       rect:
         serializedVersion: 2
         x: 592
@@ -11652,7 +11652,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_565
+      name: Area02_Torch_Right_02
       rect:
         serializedVersion: 2
         x: 368
@@ -11799,7 +11799,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_572
+      name: Area02_Torch_Left_02
       rect:
         serializedVersion: 2
         x: 592
@@ -11946,7 +11946,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_579
+      name: Area02_Bridge_Back_01
       rect:
         serializedVersion: 2
         x: 96
@@ -11967,7 +11967,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_580
+      name: Area02_Bridge_Back_02
       rect:
         serializedVersion: 2
         x: 112
@@ -11988,7 +11988,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_581
+      name: Area02_Bridge_Back_03
       rect:
         serializedVersion: 2
         x: 128
@@ -12009,7 +12009,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_582
+      name: Area02_Bridge_Back_04
       rect:
         serializedVersion: 2
         x: 144
@@ -12324,7 +12324,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_597
+      name: Area02_Secret_Right
       rect:
         serializedVersion: 2
         x: 496
@@ -12345,7 +12345,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_598
+      name: Area02_Secret_Left
       rect:
         serializedVersion: 2
         x: 528
@@ -12534,7 +12534,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_607
+      name: Area02_Bridge_Floor_01
       rect:
         serializedVersion: 2
         x: 96
@@ -12555,7 +12555,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_608
+      name: Area02_Bridge_Floor_04
       rect:
         serializedVersion: 2
         x: 144
@@ -12744,7 +12744,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_617
+      name: Area02_Bridge_Floor_03
       rect:
         serializedVersion: 2
         x: 128
@@ -12765,7 +12765,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_618
+      name: Area02_Bridge_Floor_02
       rect:
         serializedVersion: 2
         x: 112
@@ -12995,6 +12995,48 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Area02_Secret_Up
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a59c057603d5547a5b8c1237160ff2
+      internalID: -10299587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Secret_Down
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078319b5a74ee7a49957db255a7341a9
+      internalID: -2016887494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -13103,9 +13145,21 @@ TextureImporter:
       Area02_Banner_02: 802104058
       Area02_Banner_03: 2147034593
       Area02_Banner_04: 208409917
+      Area02_BayStatue_01: -714612650
+      Area02_BayStatue_02: 1368795890
+      Area02_BayStatue_03: 185657543
+      Area02_BayStatue_04: 1925959371
       Area02_Beam_01: 1527059892
       Area02_Beam_02: -569543040
       Area02_Beam_03: 928375843
+      Area02_Bridge_Back_01: -790317065
+      Area02_Bridge_Back_02: 942828390
+      Area02_Bridge_Back_03: 1660221808
+      Area02_Bridge_Back_04: 1560439210
+      Area02_Bridge_Floor_01: -1332070302
+      Area02_Bridge_Floor_02: -1640722831
+      Area02_Bridge_Floor_03: -1593515657
+      Area02_Bridge_Floor_04: 241168086
       Area02_Candle_01: -1436005687
       Area02_Candle_02: 1263984531
       Area02_Candle_03: -2077738871
@@ -13128,514 +13182,503 @@ TextureImporter:
       Area02_Pillar_14: -526222119
       Area02_Pillar_15: -2082866643
       Area02_Pillar_16: -1636380047
-      Area02_Statue_01: -387375437
-      Area02_Statue_02: -1142990584
-      Area02_Statue_03: 1632726982
-      Area02_Statue_06: -825442242
-      Area02_Tile_01: 1693463578
-      Area02_Tile_02: 432983998
-      Area02_Tile_03: 141741586
-      Area02_Tile_04: 1637320709
-      Area02_Tile_05: 1823695621
-      Area02_Tile_06: -1734051939
-      Area02_Tile_07: -2005339803
-      Area02_Tile_08: -614477433
-      Area02_Tile_09: 1647969585
-      Area02_Tile_10: -1191391469
-      Area02_Tile_11: 1306751061
-      Area02_Tile_12: -1076594008
-      Area02_Tile_13: -1806610897
-      Area02_Tile_14: 1849373126
-      Area02_Tile_15: -1945345133
-      Area02_Tile_16: -742491866
-      Area02_Tile_17: 946604384
-      Area02_Tile_18: 258459970
-      Area02_Tile_19: -863176245
-      Area02_Tile_20: 852967995
-      Area02_Vent_Closed_01: 846422961
-      Area02_Vent_Closed_02: 1218552135
-      Area02_Vent_Closed_03: -506814871
-      Area02_Vent_Closed_04: 1762831377
-      Area02_Vent_Closed_05: 1693285416
-      Area02_Vent_Closed_06: 833988374
-      Area02_Vent_Open_01: 1075246783
-      Area02_Vent_Open_02: 1352269005
-      Area02_Vent_Open_03: -584658361
-      Area02_Vent_Open_04: 1772050767
-      Area02_Vent_Open_05: -1265846085
-      Area02_Vent_Open_06: -1387959695
-      Area03_Banner_01: -634041307
-      Area03_Banner_02: 715904366
-      Area03_Banner_03: 1749414289
-      Area03_Banner_04: 1947358982
-      Area03_Tile_01: 1545872426
-      Area03_Tile_02: 1458242331
-      Area03_Tile_03: 749629217
-      Area03_Tile_04: 1907387042
-      Area03_Tile_05: -2028693736
-      Area03_Tile_06: 429936546
-      Area03_Tile_07: -1793466632
-      Area03_Tile_08: 288733656
-      Area03_Tile_09: -1478433790
-      Area03_Tile_10: -1422859765
-      Area03_Tile_11: -840147226
-      Area03_Tile_12: -1280731737
-      Area03_Tile_13: -422472911
-      Area03_Tile_14: 226920456
-      Area03_Tile_15: -788904715
-      Area03_Tile_16: 1164783011
-      Area03_Tile_17: -323674134
-      Area03_Tile_18: -270265862
-      Area03_Tile_19: 1425803926
-      Area03_Tile_20: 276496799
-      Area04_Pillar_01: -1874602219
-      Area04_Pillar_02: 1719418784
-      Area04_Pillar_03: -1987214796
-      Area04_Pillar_04: 208667939
-      Area04_Pillar_05: 795693325
-      Area04_Pillar_06: 1893659368
-      Area04_Pillar_07: -251070848
-      Area04_Pillar_08: 1626251846
-      Area04_Pillar_09: -186625967
-      Area04_Pillar_10: 752515776
-      Area04_Pillar_11: -1577552963
-      Area04_Pillar_12: 1600083727
-      Area04_Pillar_13: -2094263860
-      Area04_Pillar_14: -1066058864
-      Area04_Pillar_15: 417724620
-      Area04_Pillar_16: 1184713697
-      Area04_Tile_01: -74313417
-      Area04_Tile_02: -780712601
-      Area04_Tile_03: -92317461
-      Area04_Tile_04: 1015513796
-      Area04_Tile_05: 1093489376
-      Area04_Tile_06: -15794284
-      Area04_Tile_07: -617726386
-      Area04_Tile_08: -1205479836
-      Area04_Tile_09: 684770893
-      Area04_Tile_10: 1364480698
-      Area04_Tile_11: 761427516
-      Area04_Tile_12: -73842659
-      Area04_Tile_13: -1107673572
-      Area04_Tile_14: 482898589
-      Area04_Tile_15: 17586199
-      Area04_Tile_16: 1380955444
-      Area04_Tile_17: 1559873867
-      Area04_Tile_18: -1892784313
-      Area04_Tile_19: 1077555580
-      Area04_Tile_20: -1548831963
-      AreaSecret_Tile_01: 85362168
-      AreaSecret_Tile_02: 2123243460
-      AreaSecret_Tile_03: 799669079
-      AreaSecret_Tile_04: -1162896452
-      AreaSecret_Tile_05: 1302330844
-      AreaSecret_Tile_06: 1490815135
-      AreaSecret_Tile_07: 320869379
-      AreaSecret_Tile_08: -159293888
-      AreaSecret_Tile_09: -1863533766
-      AreaSecret_Tile_10: 1097619131
-      AreaSecret_Tile_11: 164042642
-      AreaSecret_Tile_12: 749663172
-      AreaSecret_Tile_13: -332400747
-      AreaSecret_Tile_14: -1463750244
-      AreaSecret_Tile_15: -1420553191
-      AreaSecret_Tile_16: 1641146693
-      AreaSecret_Tile_17: -956353930
-      AreaSecret_Tile_18: -2019955714
-      AreaSecret_Tile_19: -1318246036
-      AreaSecret_Tile_20: -412827265
-      BayTemple_SpriteSheet_0: 1235064673
-      BayTemple_SpriteSheet_120: 1372104540
-      BayTemple_SpriteSheet_121: 2021424993
-      BayTemple_SpriteSheet_122: -1736359985
-      BayTemple_SpriteSheet_123: 1662188293
-      BayTemple_SpriteSheet_132: -1517448899
-      BayTemple_SpriteSheet_133: -2002573795
-      BayTemple_SpriteSheet_134: 1552897902
-      BayTemple_SpriteSheet_135: -356707396
-      BayTemple_SpriteSheet_148: -1071362317
-      BayTemple_SpriteSheet_149: 1093009460
-      BayTemple_SpriteSheet_156: 1508461391
-      BayTemple_SpriteSheet_157: 574887220
-      BayTemple_SpriteSheet_158: 270202775
-      BayTemple_SpriteSheet_159: -915760161
-      BayTemple_SpriteSheet_16: 43276405
-      BayTemple_SpriteSheet_17: -1514769351
-      BayTemple_SpriteSheet_172: -525962634
-      BayTemple_SpriteSheet_173: 1822398173
-      BayTemple_SpriteSheet_18: -945650692
-      BayTemple_SpriteSheet_184: 1710811114
-      BayTemple_SpriteSheet_185: -2064912023
-      BayTemple_SpriteSheet_186: 1862239398
-      BayTemple_SpriteSheet_187: 602935865
-      BayTemple_SpriteSheet_19: 1377198524
-      BayTemple_SpriteSheet_192: -848044099
-      BayTemple_SpriteSheet_193: -1579777436
-      BayTemple_SpriteSheet_194: -286219134
-      BayTemple_SpriteSheet_195: -1749373889
-      BayTemple_SpriteSheet_196: 1058783830
-      BayTemple_SpriteSheet_197: -848774539
-      BayTemple_SpriteSheet_198: -588482087
-      BayTemple_SpriteSheet_199: -1769729607
-      BayTemple_SpriteSheet_200: -1406531650
-      BayTemple_SpriteSheet_201: -1401447668
-      BayTemple_SpriteSheet_202: 1081288244
-      BayTemple_SpriteSheet_203: 1368743548
-      BayTemple_SpriteSheet_208: 939154779
-      BayTemple_SpriteSheet_209: 1819266747
-      BayTemple_SpriteSheet_214: 1497478180
-      BayTemple_SpriteSheet_215: -1280864106
-      BayTemple_SpriteSheet_218: -1907732208
-      BayTemple_SpriteSheet_219: -224341401
-      BayTemple_SpriteSheet_220: 1901152509
-      BayTemple_SpriteSheet_221: 609220250
-      BayTemple_SpriteSheet_222: -1572940864
-      BayTemple_SpriteSheet_223: 1298935002
-      BayTemple_SpriteSheet_224: 1416351213
-      BayTemple_SpriteSheet_225: -1629674447
-      BayTemple_SpriteSheet_226: 100592694
-      BayTemple_SpriteSheet_227: -1367714032
-      BayTemple_SpriteSheet_234: -1154892744
-      BayTemple_SpriteSheet_239: -1598517368
-      BayTemple_SpriteSheet_240: 832811660
-      BayTemple_SpriteSheet_243: 114429355
-      BayTemple_SpriteSheet_244: -1368702604
-      BayTemple_SpriteSheet_251: 427015081
-      BayTemple_SpriteSheet_252: 1182333315
-      BayTemple_SpriteSheet_257: 2031954331
-      BayTemple_SpriteSheet_258: 966751778
-      BayTemple_SpriteSheet_261: -1321023089
-      BayTemple_SpriteSheet_262: -566118049
-      BayTemple_SpriteSheet_263: -661270917
-      BayTemple_SpriteSheet_264: 1163252971
-      BayTemple_SpriteSheet_265: 115949480
-      BayTemple_SpriteSheet_266: -133583365
-      BayTemple_SpriteSheet_267: 2114823223
-      BayTemple_SpriteSheet_268: 652982156
-      BayTemple_SpriteSheet_269: -1167500195
-      BayTemple_SpriteSheet_270: -868139992
-      BayTemple_SpriteSheet_275: -872962402
-      BayTemple_SpriteSheet_276: -152289148
-      BayTemple_SpriteSheet_279: -1379398630
-      BayTemple_SpriteSheet_28: 1686725823
-      BayTemple_SpriteSheet_280: -529253294
-      BayTemple_SpriteSheet_281: 2102738881
-      BayTemple_SpriteSheet_282: -1684473865
-      BayTemple_SpriteSheet_283: -613853362
-      BayTemple_SpriteSheet_284: 1248258450
-      BayTemple_SpriteSheet_285: 2005650404
-      BayTemple_SpriteSheet_286: -1933018024
-      BayTemple_SpriteSheet_287: 866671185
-      BayTemple_SpriteSheet_288: -1203664955
-      BayTemple_SpriteSheet_29: 2081157716
-      BayTemple_SpriteSheet_30: 2090141788
-      BayTemple_SpriteSheet_306: -314884125
-      BayTemple_SpriteSheet_307: -672603789
-      BayTemple_SpriteSheet_308: -422804582
-      BayTemple_SpriteSheet_309: 1675218308
-      BayTemple_SpriteSheet_31: -150061438
-      BayTemple_SpriteSheet_314: 721898756
-      BayTemple_SpriteSheet_315: 1535810874
-      BayTemple_SpriteSheet_316: 236581479
-      BayTemple_SpriteSheet_317: -1423865287
-      BayTemple_SpriteSheet_330: -137745845
-      BayTemple_SpriteSheet_331: -1582758403
-      BayTemple_SpriteSheet_332: -1825048599
-      BayTemple_SpriteSheet_333: 837609687
-      BayTemple_SpriteSheet_334: -2144729363
-      BayTemple_SpriteSheet_335: 446375584
-      BayTemple_SpriteSheet_336: -1183409187
-      BayTemple_SpriteSheet_337: -1934822019
-      BayTemple_SpriteSheet_338: 208637695
-      BayTemple_SpriteSheet_339: 451405423
-      BayTemple_SpriteSheet_340: -1313828099
-      BayTemple_SpriteSheet_341: -243168896
-      BayTemple_SpriteSheet_342: 1312243626
-      BayTemple_SpriteSheet_343: -745506969
-      BayTemple_SpriteSheet_344: 958142530
-      BayTemple_SpriteSheet_345: -1209274187
-      BayTemple_SpriteSheet_346: -1496471454
-      BayTemple_SpriteSheet_347: -456685848
-      BayTemple_SpriteSheet_351: 1378440791
-      BayTemple_SpriteSheet_352: 85213026
-      BayTemple_SpriteSheet_353: -2021034394
-      BayTemple_SpriteSheet_366: 1693547459
-      BayTemple_SpriteSheet_367: -773333064
-      BayTemple_SpriteSheet_368: -1703708373
-      BayTemple_SpriteSheet_369: 303460208
-      BayTemple_SpriteSheet_370: -2011630177
-      BayTemple_SpriteSheet_371: -353500437
-      BayTemple_SpriteSheet_372: -1819136181
-      BayTemple_SpriteSheet_373: -1505633093
-      BayTemple_SpriteSheet_374: -1656652347
-      BayTemple_SpriteSheet_375: 1146473934
-      BayTemple_SpriteSheet_376: -1240854627
-      BayTemple_SpriteSheet_377: -1790820762
-      BayTemple_SpriteSheet_378: 1085033006
-      BayTemple_SpriteSheet_379: 1531452040
-      BayTemple_SpriteSheet_380: 1571323903
-      BayTemple_SpriteSheet_381: -1578369762
-      BayTemple_SpriteSheet_382: -480657670
-      BayTemple_SpriteSheet_383: 264611122
-      BayTemple_SpriteSheet_387: 465803250
-      BayTemple_SpriteSheet_388: -1318543706
-      BayTemple_SpriteSheet_389: 952740773
-      BayTemple_SpriteSheet_393: 919018961
-      BayTemple_SpriteSheet_394: 253750727
-      BayTemple_SpriteSheet_395: 558788962
-      BayTemple_SpriteSheet_400: -1392061865
-      BayTemple_SpriteSheet_401: 1098471086
-      BayTemple_SpriteSheet_402: -2023317640
-      BayTemple_SpriteSheet_403: -480496094
-      BayTemple_SpriteSheet_404: 549905512
-      BayTemple_SpriteSheet_405: -695804524
-      BayTemple_SpriteSheet_408: 898079447
-      BayTemple_SpriteSheet_409: -32976695
-      BayTemple_SpriteSheet_410: 1854365859
-      BayTemple_SpriteSheet_411: -1845821509
-      BayTemple_SpriteSheet_412: 1677034556
-      BayTemple_SpriteSheet_413: -567158288
-      BayTemple_SpriteSheet_417: -398536301
-      BayTemple_SpriteSheet_418: -103288156
-      BayTemple_SpriteSheet_419: 785168260
-      BayTemple_SpriteSheet_426: -1936021926
-      BayTemple_SpriteSheet_427: 472970053
-      BayTemple_SpriteSheet_428: 1981894006
-      BayTemple_SpriteSheet_429: 1094638166
-      BayTemple_SpriteSheet_430: -438772002
-      BayTemple_SpriteSheet_431: -419500641
-      BayTemple_SpriteSheet_432: 782229873
-      BayTemple_SpriteSheet_433: -1574230159
-      BayTemple_SpriteSheet_434: -719644485
-      BayTemple_SpriteSheet_437: 398019092
-      BayTemple_SpriteSheet_438: -1865790664
-      BayTemple_SpriteSheet_439: -2037451554
-      BayTemple_SpriteSheet_443: 2000495071
-      BayTemple_SpriteSheet_444: 182014856
-      BayTemple_SpriteSheet_445: -1635484904
-      BayTemple_SpriteSheet_448: 969163574
-      BayTemple_SpriteSheet_449: 2059431040
-      BayTemple_SpriteSheet_450: -645427282
-      BayTemple_SpriteSheet_451: -657385167
-      BayTemple_SpriteSheet_452: 1885258700
-      BayTemple_SpriteSheet_453: 293114714
-      BayTemple_SpriteSheet_454: -837208331
-      BayTemple_SpriteSheet_455: 667484302
-      BayTemple_SpriteSheet_456: 1808596223
-      BayTemple_SpriteSheet_457: 798422473
-      BayTemple_SpriteSheet_458: -271951049
-      BayTemple_SpriteSheet_459: -538056102
-      BayTemple_SpriteSheet_460: -387409476
-      BayTemple_SpriteSheet_461: -1926226188
-      BayTemple_SpriteSheet_462: -1334982804
-      BayTemple_SpriteSheet_464: 450581000
-      BayTemple_SpriteSheet_465: -675504091
-      BayTemple_SpriteSheet_466: -27585688
-      BayTemple_SpriteSheet_467: -454734381
-      BayTemple_SpriteSheet_468: 2010361506
-      BayTemple_SpriteSheet_471: -714612650
-      BayTemple_SpriteSheet_472: 1368795890
-      BayTemple_SpriteSheet_473: 610866028
-      BayTemple_SpriteSheet_474: 348294258
-      BayTemple_SpriteSheet_475: 899982337
-      BayTemple_SpriteSheet_476: -508959915
-      BayTemple_SpriteSheet_477: 1184599004
-      BayTemple_SpriteSheet_478: 1140034341
-      BayTemple_SpriteSheet_48: 1555293360
-      BayTemple_SpriteSheet_483: 1209649561
-      BayTemple_SpriteSheet_484: 828712908
-      BayTemple_SpriteSheet_485: -706659929
-      BayTemple_SpriteSheet_486: -1707743622
-      BayTemple_SpriteSheet_487: -778811563
-      BayTemple_SpriteSheet_488: -1072628417
-      BayTemple_SpriteSheet_489: -2025928491
-      BayTemple_SpriteSheet_49: -1772859582
-      BayTemple_SpriteSheet_490: 1508969261
-      BayTemple_SpriteSheet_491: 1098999091
-      BayTemple_SpriteSheet_492: -2040743457
-      BayTemple_SpriteSheet_493: -1211142903
-      BayTemple_SpriteSheet_494: 117586536
-      BayTemple_SpriteSheet_495: -19320002
-      BayTemple_SpriteSheet_496: -593869262
-      BayTemple_SpriteSheet_497: 1562209794
-      BayTemple_SpriteSheet_50: -690424360
-      BayTemple_SpriteSheet_500: 185657543
-      BayTemple_SpriteSheet_501: 1925959371
-      BayTemple_SpriteSheet_502: -367717682
-      BayTemple_SpriteSheet_503: -1748259316
-      BayTemple_SpriteSheet_504: 1857559361
-      BayTemple_SpriteSheet_505: -1599577543
-      BayTemple_SpriteSheet_506: 1002621939
-      BayTemple_SpriteSheet_507: 1771651767
-      BayTemple_SpriteSheet_51: 250992052
-      BayTemple_SpriteSheet_512: -64155189
-      BayTemple_SpriteSheet_513: -1432628886
-      BayTemple_SpriteSheet_514: -1846952764
-      BayTemple_SpriteSheet_515: 1436865251
-      BayTemple_SpriteSheet_516: -1901833416
-      BayTemple_SpriteSheet_517: -159322750
-      BayTemple_SpriteSheet_518: 1304150967
-      BayTemple_SpriteSheet_519: 1941931082
-      BayTemple_SpriteSheet_520: -97464749
-      BayTemple_SpriteSheet_521: 1452117106
-      BayTemple_SpriteSheet_522: 571577537
-      BayTemple_SpriteSheet_523: 2138960322
-      BayTemple_SpriteSheet_524: -579173053
-      BayTemple_SpriteSheet_525: -269295549
-      BayTemple_SpriteSheet_526: -2035800328
-      BayTemple_SpriteSheet_527: -1349727125
-      BayTemple_SpriteSheet_528: -122073709
-      BayTemple_SpriteSheet_529: 232772815
-      BayTemple_SpriteSheet_530: -1800188092
-      BayTemple_SpriteSheet_531: -1795293521
-      BayTemple_SpriteSheet_532: -2093783990
-      BayTemple_SpriteSheet_533: -117132316
-      BayTemple_SpriteSheet_534: 814729952
-      BayTemple_SpriteSheet_535: 2077271337
-      BayTemple_SpriteSheet_536: 705991122
-      BayTemple_SpriteSheet_537: -178932821
-      BayTemple_SpriteSheet_538: -1147165959
-      BayTemple_SpriteSheet_539: -2077267973
-      BayTemple_SpriteSheet_540: -1059300086
-      BayTemple_SpriteSheet_541: 495069594
-      BayTemple_SpriteSheet_543: 28527106
-      BayTemple_SpriteSheet_544: 892523332
-      BayTemple_SpriteSheet_545: 381785240
-      BayTemple_SpriteSheet_546: 1128001388
-      BayTemple_SpriteSheet_547: -1351631648
-      BayTemple_SpriteSheet_548: -2053171195
-      BayTemple_SpriteSheet_549: -1825143750
-      BayTemple_SpriteSheet_550: -1082078473
-      BayTemple_SpriteSheet_552: 1752847104
-      BayTemple_SpriteSheet_553: -308203090
-      BayTemple_SpriteSheet_554: -2132988653
-      BayTemple_SpriteSheet_555: -260295821
-      BayTemple_SpriteSheet_556: -1186790152
-      BayTemple_SpriteSheet_557: -1862754324
-      BayTemple_SpriteSheet_558: 609634429
-      BayTemple_SpriteSheet_559: -553338248
-      BayTemple_SpriteSheet_560: 458687105
-      BayTemple_SpriteSheet_561: -227856207
-      BayTemple_SpriteSheet_562: -1523715305
-      BayTemple_SpriteSheet_563: 1619355691
-      BayTemple_SpriteSheet_565: 1076785858
-      BayTemple_SpriteSheet_566: -1953244092
-      BayTemple_SpriteSheet_567: -906996757
-      BayTemple_SpriteSheet_568: 931665083
-      BayTemple_SpriteSheet_569: 578798707
-      BayTemple_SpriteSheet_570: 769631677
-      BayTemple_SpriteSheet_571: -1580601555
-      BayTemple_SpriteSheet_572: -575143149
-      BayTemple_SpriteSheet_574: -854267822
-      BayTemple_SpriteSheet_575: -297724360
-      BayTemple_SpriteSheet_576: 1347044629
-      BayTemple_SpriteSheet_577: -518399417
-      BayTemple_SpriteSheet_578: -1512192713
-      BayTemple_SpriteSheet_579: -790317065
-      BayTemple_SpriteSheet_580: 942828390
-      BayTemple_SpriteSheet_581: 1660221808
-      BayTemple_SpriteSheet_582: 1560439210
-      BayTemple_SpriteSheet_583: -1986361249
-      BayTemple_SpriteSheet_584: 1330424493
-      BayTemple_SpriteSheet_585: 630673046
-      BayTemple_SpriteSheet_586: 2060191434
-      BayTemple_SpriteSheet_587: 599332230
-      BayTemple_SpriteSheet_588: 167339232
-      BayTemple_SpriteSheet_589: 177170534
-      BayTemple_SpriteSheet_590: -174424263
-      BayTemple_SpriteSheet_591: -897622995
-      BayTemple_SpriteSheet_592: 2142803403
-      BayTemple_SpriteSheet_593: -250631856
-      BayTemple_SpriteSheet_594: -596101345
-      BayTemple_SpriteSheet_597: 1048376157
-      BayTemple_SpriteSheet_598: 693136943
-      BayTemple_SpriteSheet_599: -2070493041
-      BayTemple_SpriteSheet_60: 1257262271
-      BayTemple_SpriteSheet_600: 811229914
-      BayTemple_SpriteSheet_601: 2136604152
-      BayTemple_SpriteSheet_602: 7946235
-      BayTemple_SpriteSheet_603: -1917092758
-      BayTemple_SpriteSheet_604: 1942580877
-      BayTemple_SpriteSheet_605: -2099742497
-      BayTemple_SpriteSheet_606: -399950967
-      BayTemple_SpriteSheet_607: -1332070302
-      BayTemple_SpriteSheet_608: 241168086
-      BayTemple_SpriteSheet_609: 2014225397
-      BayTemple_SpriteSheet_61: 1665815980
-      BayTemple_SpriteSheet_610: -634060415
-      BayTemple_SpriteSheet_611: 146935710
-      BayTemple_SpriteSheet_612: 1188267403
-      BayTemple_SpriteSheet_613: 1954002326
-      BayTemple_SpriteSheet_614: 171065977
-      BayTemple_SpriteSheet_615: -1839112038
-      BayTemple_SpriteSheet_616: 631919828
-      BayTemple_SpriteSheet_617: -1593515657
-      BayTemple_SpriteSheet_618: -1640722831
-      BayTemple_SpriteSheet_619: 487914886
-      BayTemple_SpriteSheet_62: 115885696
-      BayTemple_SpriteSheet_620: -6089498
-      BayTemple_SpriteSheet_621: 224349136
-      BayTemple_SpriteSheet_622: 183752715
-      BayTemple_SpriteSheet_623: 2054875659
-      BayTemple_SpriteSheet_624: -1086469862
-      BayTemple_SpriteSheet_63: -272692810
-      BayTemple_SpriteSheet_84: -399258097
-      BayTemple_SpriteSheet_85: -781010342
-      BayTemple_SpriteSheet_86: 2086359817
-      BayTemple_SpriteSheet_87: -1619310983
-      BayTemple_SpriteSheet_96: -104820956
-      BayTemple_SpriteSheet_97: 839847801
-      BayTemple_SpriteSheet_98: -1700694906
-      BayTemple_SpriteSheet_99: 909185260
-      FinalTorch_Left_01: -854105668
-      FinalTorch_Left_02: 444304915
-      FinalTorch_Left_03: -1720542659
-      FinalTorch_Left_04: 1524454583
-      FinalTorch_Left_05: 259513413
-      FinalTorch_Left_06: 1498970748
-      FinalTorch_Left_07: -1660340307
-      FinalTorch_Left_09: -770876130
-      FinalTorch_Right_01: -1465800855
-      FinalTorch_Right_02: 950239843
-      FinalTorch_Right_03: 603395629
-      FinalTorch_Right_04: -423592026
-      FinalTorch_Right_05: 653206206
-      FinalTorch_Right_06: -35724624
-      FinalTorch_Right_07: -1027822735
-      FinalTorch_Right_08: 814218909
-      Gate_01: -1401147725
-      Gate_02: 636008226
-      Gate_03: -1893473729
-      Gate_04: -551041766
-      Gate_Key: -609134875
-      Key: 741848686
-      KeyHole_Area02: -418993991
-      KeyHole_Area03: -568616113
-      KeyHole_Area04: -1927148488
-      KeyHole_Area05: -1664817563
-      SecretShrine_01: -514483337
-      SecretShrine_02: -1030792040
-      SecretShrine_03: 1032045479
-      Shrine_Right_01: -480083183
-      Shrine_Right_02: 954520763
-      Shrine_Right_03: -1501721415
-      Shrine_Right_04: -790021818
-      Shrine_Right_05: -647601388
-      Shrine_Right_06: 2054354694
-      Shrine_Right_07: -1798083473
-      Shrine_Right_08: 65976508
-      Shrine_Right_09: -849868917
-      Shrine_Right_10: -155726735
-      Shrine_Right_11: 1740334042
-      Shrine_Right_12: -273918198
-      Shrine_Right_13: 1884422442
-      Shrine_Right_14: -927352466
-      Shrine_Right_15: 1246253921
-      Shrine_Right_16: 550039438
-      Shrine_Right_17: 111699001
-      Shrine_Right_18: 1056256700
-      Shrine_Right_19: 166579793
-      Shrine_Right_20: -1372829074
+      Area02_Secret_Down: -2016887494
+      Area02_Secret_Left: 693136943
+      Area02_Secret_Right: -387375437
+      Area02_Secret_Up: 1235064673
+      Area02_Statue_01: -1142990584
+      Area02_Statue_02: 1632726982
+      Area02_Statue_03: -825442242
+      Area02_Statue_06: -2025928491
+      Area02_Sword_01: 1304150967
+      Area02_Sword_02: 1693463578
+      Area02_Tile_01: 432983998
+      Area02_Tile_02: 141741586
+      Area02_Tile_03: 1637320709
+      Area02_Tile_04: 1823695621
+      Area02_Tile_05: -1734051939
+      Area02_Tile_06: -2005339803
+      Area02_Tile_07: -614477433
+      Area02_Tile_08: 1647969585
+      Area02_Tile_09: -1191391469
+      Area02_Tile_10: 1306751061
+      Area02_Tile_11: -1076594008
+      Area02_Tile_12: -1806610897
+      Area02_Tile_13: 1849373126
+      Area02_Tile_14: -1945345133
+      Area02_Tile_15: -742491866
+      Area02_Tile_16: 946604384
+      Area02_Tile_17: 258459970
+      Area02_Tile_18: -863176245
+      Area02_Tile_19: 852967995
+      Area02_Tile_20: 846422961
+      Area02_Torch_Left_01: -1082078473
+      Area02_Torch_Left_02: -575143149
+      Area02_Torch_Right_01: 28527106
+      Area02_Torch_Right_02: 1076785858
+      Area02_Vent_Closed_01: 1218552135
+      Area02_Vent_Closed_02: -506814871
+      Area02_Vent_Closed_03: 1762831377
+      Area02_Vent_Closed_04: 1693285416
+      Area02_Vent_Closed_05: 833988374
+      Area02_Vent_Closed_06: 1075246783
+      Area02_Vent_Open_01: 1352269005
+      Area02_Vent_Open_02: -584658361
+      Area02_Vent_Open_03: 1772050767
+      Area02_Vent_Open_04: -1265846085
+      Area02_Vent_Open_05: -1387959695
+      Area02_Vent_Open_06: -634041307
+      Area03_Banner_01: 715904366
+      Area03_Banner_02: 1749414289
+      Area03_Banner_03: 1947358982
+      Area03_Banner_04: 1545872426
+      Area03_Tile_01: 1458242331
+      Area03_Tile_02: 749629217
+      Area03_Tile_03: 1907387042
+      Area03_Tile_04: -2028693736
+      Area03_Tile_05: 429936546
+      Area03_Tile_06: -1793466632
+      Area03_Tile_07: 288733656
+      Area03_Tile_08: -1478433790
+      Area03_Tile_09: -1422859765
+      Area03_Tile_10: -840147226
+      Area03_Tile_11: -1280731737
+      Area03_Tile_12: -422472911
+      Area03_Tile_13: 226920456
+      Area03_Tile_14: -788904715
+      Area03_Tile_15: 1164783011
+      Area03_Tile_16: -323674134
+      Area03_Tile_17: -270265862
+      Area03_Tile_18: 1425803926
+      Area03_Tile_19: 276496799
+      Area03_Tile_20: -1874602219
+      Area04_Pillar_01: 1719418784
+      Area04_Pillar_02: -1987214796
+      Area04_Pillar_03: 208667939
+      Area04_Pillar_04: 795693325
+      Area04_Pillar_05: 1893659368
+      Area04_Pillar_06: -251070848
+      Area04_Pillar_07: 1626251846
+      Area04_Pillar_08: -186625967
+      Area04_Pillar_09: 752515776
+      Area04_Pillar_10: -1577552963
+      Area04_Pillar_11: 1600083727
+      Area04_Pillar_12: -2094263860
+      Area04_Pillar_13: -1066058864
+      Area04_Pillar_14: 417724620
+      Area04_Pillar_15: 1184713697
+      Area04_Pillar_16: -74313417
+      Area04_Tile_01: -780712601
+      Area04_Tile_02: -92317461
+      Area04_Tile_03: 1015513796
+      Area04_Tile_04: 1093489376
+      Area04_Tile_05: -15794284
+      Area04_Tile_06: -617726386
+      Area04_Tile_07: -1205479836
+      Area04_Tile_08: 684770893
+      Area04_Tile_09: 1364480698
+      Area04_Tile_10: 761427516
+      Area04_Tile_11: -73842659
+      Area04_Tile_12: -1107673572
+      Area04_Tile_13: 482898589
+      Area04_Tile_14: 17586199
+      Area04_Tile_15: 1380955444
+      Area04_Tile_16: 1559873867
+      Area04_Tile_17: -1892784313
+      Area04_Tile_18: 1077555580
+      Area04_Tile_19: -1548831963
+      Area04_Tile_20: 85362168
+      AreaSecret_Tile_01: 2123243460
+      AreaSecret_Tile_02: 799669079
+      AreaSecret_Tile_03: -1162896452
+      AreaSecret_Tile_04: 1302330844
+      AreaSecret_Tile_05: 1490815135
+      AreaSecret_Tile_06: 320869379
+      AreaSecret_Tile_07: -159293888
+      AreaSecret_Tile_08: -1863533766
+      AreaSecret_Tile_09: 1097619131
+      AreaSecret_Tile_10: 164042642
+      AreaSecret_Tile_11: 749663172
+      AreaSecret_Tile_12: -332400747
+      AreaSecret_Tile_13: -1463750244
+      AreaSecret_Tile_14: -1420553191
+      AreaSecret_Tile_15: 1641146693
+      AreaSecret_Tile_16: -956353930
+      AreaSecret_Tile_17: -2019955714
+      AreaSecret_Tile_18: -1318246036
+      AreaSecret_Tile_19: -412827265
+      AreaSecret_Tile_20: 1235064673
+      BayTemple_SpriteSheet_120: 2021424993
+      BayTemple_SpriteSheet_121: -1736359985
+      BayTemple_SpriteSheet_122: 1662188293
+      BayTemple_SpriteSheet_123: -1071362317
+      BayTemple_SpriteSheet_148: 1093009460
+      BayTemple_SpriteSheet_149: 43276405
+      BayTemple_SpriteSheet_16: -1514769351
+      BayTemple_SpriteSheet_17: -525962634
+      BayTemple_SpriteSheet_172: 1822398173
+      BayTemple_SpriteSheet_173: -945650692
+      BayTemple_SpriteSheet_18: 1710811114
+      BayTemple_SpriteSheet_184: -2064912023
+      BayTemple_SpriteSheet_185: 1862239398
+      BayTemple_SpriteSheet_186: 602935865
+      BayTemple_SpriteSheet_187: 1377198524
+      BayTemple_SpriteSheet_19: -848044099
+      BayTemple_SpriteSheet_192: -1579777436
+      BayTemple_SpriteSheet_193: -286219134
+      BayTemple_SpriteSheet_194: -1749373889
+      BayTemple_SpriteSheet_195: 1058783830
+      BayTemple_SpriteSheet_196: -848774539
+      BayTemple_SpriteSheet_197: -588482087
+      BayTemple_SpriteSheet_198: -1769729607
+      BayTemple_SpriteSheet_199: -1406531650
+      BayTemple_SpriteSheet_200: -1401447668
+      BayTemple_SpriteSheet_201: 1081288244
+      BayTemple_SpriteSheet_202: 1368743548
+      BayTemple_SpriteSheet_203: 939154779
+      BayTemple_SpriteSheet_208: 1819266747
+      BayTemple_SpriteSheet_209: 1497478180
+      BayTemple_SpriteSheet_214: -1280864106
+      BayTemple_SpriteSheet_215: -1907732208
+      BayTemple_SpriteSheet_218: -224341401
+      BayTemple_SpriteSheet_219: 1901152509
+      BayTemple_SpriteSheet_220: 609220250
+      BayTemple_SpriteSheet_221: -1572940864
+      BayTemple_SpriteSheet_222: 1298935002
+      BayTemple_SpriteSheet_223: 1416351213
+      BayTemple_SpriteSheet_224: -1629674447
+      BayTemple_SpriteSheet_225: 100592694
+      BayTemple_SpriteSheet_226: -1367714032
+      BayTemple_SpriteSheet_227: -1154892744
+      BayTemple_SpriteSheet_234: -1598517368
+      BayTemple_SpriteSheet_239: 832811660
+      BayTemple_SpriteSheet_240: 114429355
+      BayTemple_SpriteSheet_243: -1368702604
+      BayTemple_SpriteSheet_244: 427015081
+      BayTemple_SpriteSheet_251: 1182333315
+      BayTemple_SpriteSheet_252: 2031954331
+      BayTemple_SpriteSheet_257: 966751778
+      BayTemple_SpriteSheet_258: -1321023089
+      BayTemple_SpriteSheet_261: -566118049
+      BayTemple_SpriteSheet_262: -661270917
+      BayTemple_SpriteSheet_263: 1163252971
+      BayTemple_SpriteSheet_264: 115949480
+      BayTemple_SpriteSheet_265: -133583365
+      BayTemple_SpriteSheet_266: 2114823223
+      BayTemple_SpriteSheet_267: 652982156
+      BayTemple_SpriteSheet_268: -1167500195
+      BayTemple_SpriteSheet_269: -868139992
+      BayTemple_SpriteSheet_270: -872962402
+      BayTemple_SpriteSheet_275: -152289148
+      BayTemple_SpriteSheet_276: -1379398630
+      BayTemple_SpriteSheet_279: -529253294
+      BayTemple_SpriteSheet_280: 2102738881
+      BayTemple_SpriteSheet_281: -1684473865
+      BayTemple_SpriteSheet_282: -613853362
+      BayTemple_SpriteSheet_283: 1248258450
+      BayTemple_SpriteSheet_284: 2005650404
+      BayTemple_SpriteSheet_285: -1933018024
+      BayTemple_SpriteSheet_286: 866671185
+      BayTemple_SpriteSheet_287: -1203664955
+      BayTemple_SpriteSheet_288: -314884125
+      BayTemple_SpriteSheet_306: -672603789
+      BayTemple_SpriteSheet_307: -422804582
+      BayTemple_SpriteSheet_308: 1675218308
+      BayTemple_SpriteSheet_309: 721898756
+      BayTemple_SpriteSheet_314: 1535810874
+      BayTemple_SpriteSheet_315: 236581479
+      BayTemple_SpriteSheet_316: -1423865287
+      BayTemple_SpriteSheet_317: -137745845
+      BayTemple_SpriteSheet_330: -1582758403
+      BayTemple_SpriteSheet_331: -1825048599
+      BayTemple_SpriteSheet_332: 837609687
+      BayTemple_SpriteSheet_333: -2144729363
+      BayTemple_SpriteSheet_334: 446375584
+      BayTemple_SpriteSheet_335: -1183409187
+      BayTemple_SpriteSheet_336: -1934822019
+      BayTemple_SpriteSheet_337: 208637695
+      BayTemple_SpriteSheet_338: 451405423
+      BayTemple_SpriteSheet_339: -1313828099
+      BayTemple_SpriteSheet_340: -243168896
+      BayTemple_SpriteSheet_341: 1312243626
+      BayTemple_SpriteSheet_342: -745506969
+      BayTemple_SpriteSheet_343: 958142530
+      BayTemple_SpriteSheet_344: -1209274187
+      BayTemple_SpriteSheet_345: -1496471454
+      BayTemple_SpriteSheet_346: -456685848
+      BayTemple_SpriteSheet_347: 1378440791
+      BayTemple_SpriteSheet_351: 85213026
+      BayTemple_SpriteSheet_352: -2021034394
+      BayTemple_SpriteSheet_353: 1693547459
+      BayTemple_SpriteSheet_366: -773333064
+      BayTemple_SpriteSheet_367: -1703708373
+      BayTemple_SpriteSheet_368: 303460208
+      BayTemple_SpriteSheet_369: -2011630177
+      BayTemple_SpriteSheet_370: -353500437
+      BayTemple_SpriteSheet_371: -1819136181
+      BayTemple_SpriteSheet_372: -1505633093
+      BayTemple_SpriteSheet_373: -1656652347
+      BayTemple_SpriteSheet_374: 1146473934
+      BayTemple_SpriteSheet_375: -1240854627
+      BayTemple_SpriteSheet_376: -1790820762
+      BayTemple_SpriteSheet_377: 1085033006
+      BayTemple_SpriteSheet_378: 1531452040
+      BayTemple_SpriteSheet_379: 1571323903
+      BayTemple_SpriteSheet_380: -1578369762
+      BayTemple_SpriteSheet_381: -480657670
+      BayTemple_SpriteSheet_382: 264611122
+      BayTemple_SpriteSheet_383: 465803250
+      BayTemple_SpriteSheet_387: -1318543706
+      BayTemple_SpriteSheet_388: 952740773
+      BayTemple_SpriteSheet_389: 919018961
+      BayTemple_SpriteSheet_393: 253750727
+      BayTemple_SpriteSheet_394: 558788962
+      BayTemple_SpriteSheet_395: -1392061865
+      BayTemple_SpriteSheet_400: 1098471086
+      BayTemple_SpriteSheet_401: -2023317640
+      BayTemple_SpriteSheet_402: -480496094
+      BayTemple_SpriteSheet_403: 549905512
+      BayTemple_SpriteSheet_404: -695804524
+      BayTemple_SpriteSheet_405: 898079447
+      BayTemple_SpriteSheet_408: -32976695
+      BayTemple_SpriteSheet_409: 1854365859
+      BayTemple_SpriteSheet_410: -1845821509
+      BayTemple_SpriteSheet_411: 1677034556
+      BayTemple_SpriteSheet_412: -567158288
+      BayTemple_SpriteSheet_413: -398536301
+      BayTemple_SpriteSheet_417: -103288156
+      BayTemple_SpriteSheet_418: 785168260
+      BayTemple_SpriteSheet_419: -1936021926
+      BayTemple_SpriteSheet_426: 472970053
+      BayTemple_SpriteSheet_427: 1981894006
+      BayTemple_SpriteSheet_428: 1094638166
+      BayTemple_SpriteSheet_429: -438772002
+      BayTemple_SpriteSheet_430: -419500641
+      BayTemple_SpriteSheet_431: 782229873
+      BayTemple_SpriteSheet_432: -1574230159
+      BayTemple_SpriteSheet_433: -719644485
+      BayTemple_SpriteSheet_434: 398019092
+      BayTemple_SpriteSheet_437: -1865790664
+      BayTemple_SpriteSheet_438: -2037451554
+      BayTemple_SpriteSheet_439: 2000495071
+      BayTemple_SpriteSheet_443: 182014856
+      BayTemple_SpriteSheet_444: -1635484904
+      BayTemple_SpriteSheet_445: 969163574
+      BayTemple_SpriteSheet_448: 2059431040
+      BayTemple_SpriteSheet_449: -645427282
+      BayTemple_SpriteSheet_450: -657385167
+      BayTemple_SpriteSheet_451: 1885258700
+      BayTemple_SpriteSheet_452: 293114714
+      BayTemple_SpriteSheet_453: -837208331
+      BayTemple_SpriteSheet_454: 667484302
+      BayTemple_SpriteSheet_455: 1808596223
+      BayTemple_SpriteSheet_456: 798422473
+      BayTemple_SpriteSheet_457: -271951049
+      BayTemple_SpriteSheet_458: -538056102
+      BayTemple_SpriteSheet_459: -387409476
+      BayTemple_SpriteSheet_460: -1926226188
+      BayTemple_SpriteSheet_461: -1334982804
+      BayTemple_SpriteSheet_462: 450581000
+      BayTemple_SpriteSheet_464: -675504091
+      BayTemple_SpriteSheet_465: -27585688
+      BayTemple_SpriteSheet_466: -454734381
+      BayTemple_SpriteSheet_467: 2010361506
+      BayTemple_SpriteSheet_468: 610866028
+      BayTemple_SpriteSheet_473: 348294258
+      BayTemple_SpriteSheet_474: 899982337
+      BayTemple_SpriteSheet_475: -508959915
+      BayTemple_SpriteSheet_476: 1184599004
+      BayTemple_SpriteSheet_477: 1140034341
+      BayTemple_SpriteSheet_478: 1555293360
+      BayTemple_SpriteSheet_48: 1209649561
+      BayTemple_SpriteSheet_483: 828712908
+      BayTemple_SpriteSheet_484: -706659929
+      BayTemple_SpriteSheet_485: -1707743622
+      BayTemple_SpriteSheet_486: -778811563
+      BayTemple_SpriteSheet_487: -1072628417
+      BayTemple_SpriteSheet_488: -1772859582
+      BayTemple_SpriteSheet_49: 1508969261
+      BayTemple_SpriteSheet_490: 1098999091
+      BayTemple_SpriteSheet_491: -2040743457
+      BayTemple_SpriteSheet_492: -1211142903
+      BayTemple_SpriteSheet_493: 117586536
+      BayTemple_SpriteSheet_494: -19320002
+      BayTemple_SpriteSheet_495: -593869262
+      BayTemple_SpriteSheet_496: 1562209794
+      BayTemple_SpriteSheet_497: -690424360
+      BayTemple_SpriteSheet_50: -367717682
+      BayTemple_SpriteSheet_502: -1748259316
+      BayTemple_SpriteSheet_503: 1857559361
+      BayTemple_SpriteSheet_504: -1599577543
+      BayTemple_SpriteSheet_505: 1002621939
+      BayTemple_SpriteSheet_506: 1771651767
+      BayTemple_SpriteSheet_507: 250992052
+      BayTemple_SpriteSheet_51: -64155189
+      BayTemple_SpriteSheet_512: -1432628886
+      BayTemple_SpriteSheet_513: -1846952764
+      BayTemple_SpriteSheet_514: 1436865251
+      BayTemple_SpriteSheet_515: -1901833416
+      BayTemple_SpriteSheet_516: -159322750
+      BayTemple_SpriteSheet_517: 1941931082
+      BayTemple_SpriteSheet_519: -97464749
+      BayTemple_SpriteSheet_520: 1452117106
+      BayTemple_SpriteSheet_521: 571577537
+      BayTemple_SpriteSheet_522: 2138960322
+      BayTemple_SpriteSheet_523: -579173053
+      BayTemple_SpriteSheet_524: -269295549
+      BayTemple_SpriteSheet_525: -2035800328
+      BayTemple_SpriteSheet_526: -1349727125
+      BayTemple_SpriteSheet_527: -122073709
+      BayTemple_SpriteSheet_528: 232772815
+      BayTemple_SpriteSheet_529: -1800188092
+      BayTemple_SpriteSheet_530: -1795293521
+      BayTemple_SpriteSheet_531: -2093783990
+      BayTemple_SpriteSheet_532: -117132316
+      BayTemple_SpriteSheet_533: 814729952
+      BayTemple_SpriteSheet_534: 2077271337
+      BayTemple_SpriteSheet_535: 705991122
+      BayTemple_SpriteSheet_536: -178932821
+      BayTemple_SpriteSheet_537: -1147165959
+      BayTemple_SpriteSheet_538: -2077267973
+      BayTemple_SpriteSheet_539: -1059300086
+      BayTemple_SpriteSheet_540: 495069594
+      BayTemple_SpriteSheet_541: 28527106
+      BayTemple_SpriteSheet_544: 381785240
+      BayTemple_SpriteSheet_545: 1128001388
+      BayTemple_SpriteSheet_546: -1351631648
+      BayTemple_SpriteSheet_547: -2053171195
+      BayTemple_SpriteSheet_548: -1825143750
+      BayTemple_SpriteSheet_549: -1082078473
+      BayTemple_SpriteSheet_552: -308203090
+      BayTemple_SpriteSheet_553: -2132988653
+      BayTemple_SpriteSheet_554: -260295821
+      BayTemple_SpriteSheet_555: -1186790152
+      BayTemple_SpriteSheet_556: -1862754324
+      BayTemple_SpriteSheet_557: 609634429
+      BayTemple_SpriteSheet_558: -553338248
+      BayTemple_SpriteSheet_559: 458687105
+      BayTemple_SpriteSheet_560: -227856207
+      BayTemple_SpriteSheet_561: -1523715305
+      BayTemple_SpriteSheet_562: 1619355691
+      BayTemple_SpriteSheet_563: 1076785858
+      BayTemple_SpriteSheet_566: -906996757
+      BayTemple_SpriteSheet_567: 931665083
+      BayTemple_SpriteSheet_568: 578798707
+      BayTemple_SpriteSheet_569: 769631677
+      BayTemple_SpriteSheet_570: -1580601555
+      BayTemple_SpriteSheet_571: -575143149
+      BayTemple_SpriteSheet_574: -297724360
+      BayTemple_SpriteSheet_575: 1347044629
+      BayTemple_SpriteSheet_576: -518399417
+      BayTemple_SpriteSheet_577: -1512192713
+      BayTemple_SpriteSheet_578: -1986361249
+      BayTemple_SpriteSheet_583: 1330424493
+      BayTemple_SpriteSheet_584: 630673046
+      BayTemple_SpriteSheet_585: 2060191434
+      BayTemple_SpriteSheet_586: 599332230
+      BayTemple_SpriteSheet_587: 167339232
+      BayTemple_SpriteSheet_588: 177170534
+      BayTemple_SpriteSheet_589: -174424263
+      BayTemple_SpriteSheet_590: -897622995
+      BayTemple_SpriteSheet_591: 2142803403
+      BayTemple_SpriteSheet_592: -250631856
+      BayTemple_SpriteSheet_593: -596101345
+      BayTemple_SpriteSheet_594: -2070493041
+      BayTemple_SpriteSheet_599: 811229914
+      BayTemple_SpriteSheet_600: 2136604152
+      BayTemple_SpriteSheet_601: 7946235
+      BayTemple_SpriteSheet_602: -1917092758
+      BayTemple_SpriteSheet_603: 1942580877
+      BayTemple_SpriteSheet_604: -2099742497
+      BayTemple_SpriteSheet_605: -399950967
+      BayTemple_SpriteSheet_606: 2014225397
+      BayTemple_SpriteSheet_609: -634060415
+      BayTemple_SpriteSheet_610: 146935710
+      BayTemple_SpriteSheet_611: 1188267403
+      BayTemple_SpriteSheet_612: 1954002326
+      BayTemple_SpriteSheet_613: 171065977
+      BayTemple_SpriteSheet_614: -1839112038
+      BayTemple_SpriteSheet_615: 631919828
+      BayTemple_SpriteSheet_616: 487914886
+      BayTemple_SpriteSheet_619: -6089498
+      BayTemple_SpriteSheet_620: 224349136
+      BayTemple_SpriteSheet_621: 183752715
+      BayTemple_SpriteSheet_622: 2054875659
+      BayTemple_SpriteSheet_623: -1086469862
+      BayTemple_SpriteSheet_624: -399258097
+      BayTemple_SpriteSheet_84: -781010342
+      BayTemple_SpriteSheet_85: 2086359817
+      BayTemple_SpriteSheet_86: -1619310983
+      BayTemple_SpriteSheet_87: -854105668
+      FinalTorch_Left_01: 444304915
+      FinalTorch_Left_02: -1720542659
+      FinalTorch_Left_03: 1524454583
+      FinalTorch_Left_04: 259513413
+      FinalTorch_Left_05: 1498970748
+      FinalTorch_Left_06: -1660340307
+      FinalTorch_Left_07: -770876130
+      FinalTorch_Left_09: -1465800855
+      FinalTorch_Right_01: 950239843
+      FinalTorch_Right_02: 603395629
+      FinalTorch_Right_03: -423592026
+      FinalTorch_Right_04: 653206206
+      FinalTorch_Right_05: -35724624
+      FinalTorch_Right_06: -1027822735
+      FinalTorch_Right_07: 814218909
+      FinalTorch_Right_08: -1401147725
+      Gate_01: 636008226
+      Gate_02: -1893473729
+      Gate_03: -551041766
+      Gate_04: -609134875
+      Gate_Key: 741848686
+      Key: -418993991
+      KeyHole_Area02: -568616113
+      KeyHole_Area03: -1927148488
+      KeyHole_Area04: -1664817563
+      KeyHole_Area05: -514483337
+      SecretShrine_01: -1030792040
+      SecretShrine_02: 1032045479
+      SecretShrine_03: 1686725823
+      Shrine_Left_01: 2081157716
+      Shrine_Left_02: 2090141788
+      Shrine_Left_03: -150061438
+      Shrine_Left_04: 1257262271
+      Shrine_Left_05: 1665815980
+      Shrine_Left_06: 115885696
+      Shrine_Left_07: -272692810
+      Shrine_Left_08: -104820956
+      Shrine_Left_09: 839847801
+      Shrine_Left_10: -1700694906
+      Shrine_Left_11: 909185260
+      Shrine_Left_12: -1517448899
+      Shrine_Left_13: -2002573795
+      Shrine_Left_14: 1552897902
+      Shrine_Left_15: -356707396
+      Shrine_Left_16: 1508461391
+      Shrine_Left_17: 574887220
+      Shrine_Left_18: 270202775
+      Shrine_Left_19: -915760161
+      Shrine_Left_20: -480083183
+      Shrine_Right_01: 954520763
+      Shrine_Right_02: -1501721415
+      Shrine_Right_03: -790021818
+      Shrine_Right_04: -647601388
+      Shrine_Right_05: 2054354694
+      Shrine_Right_06: -1798083473
+      Shrine_Right_07: 65976508
+      Shrine_Right_08: -849868917
+      Shrine_Right_09: -155726735
+      Shrine_Right_10: 1740334042
+      Shrine_Right_11: -273918198
+      Shrine_Right_12: 1884422442
+      Shrine_Right_13: -927352466
+      Shrine_Right_14: 1246253921
+      Shrine_Right_15: 550039438
+      Shrine_Right_16: 111699001
+      Shrine_Right_17: 1056256700
+      Shrine_Right_18: 166579793
+      Shrine_Right_19: -1372829074
+      Shrine_Right_20: 1048376157
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
