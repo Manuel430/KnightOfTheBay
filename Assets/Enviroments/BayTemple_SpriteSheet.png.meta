@@ -5310,48 +5310,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BayTemple_SpriteSheet_263
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 288
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 934e765098e91604bab923b609c85621
-      internalID: -661270917
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BayTemple_SpriteSheet_264
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 288
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 110453fc199e62843a0b7f8c896c3591
-      internalID: 1163252971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: BayTemple_SpriteSheet_265
       rect:
         serializedVersion: 2
@@ -5683,48 +5641,6 @@ TextureImporter:
       bones: []
       spriteID: 32944d434954ae7409f7dd219a0491aa
       internalID: -529253294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BayTemple_SpriteSheet_281
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 272
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b6f3bf2a1c87b6749a4b4f002bd78839
-      internalID: 2102738881
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BayTemple_SpriteSheet_282
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 272
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d60aad07b870de4f95582bba0fd9f82
-      internalID: -1684473865
       vertices: []
       indices: 
       edges: []
@@ -13037,6 +12953,4143 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_01
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17b3ce51180d6045befdff50260d371
+      internalID: -2116295357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_02
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cceec5806ed6e4b94a081e3479db21
+      internalID: 1144444274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_03
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ad74c6b1bfdaa408e4b70f343c3d35
+      internalID: 681564778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_04
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46670e99abecf264895c0949660a2915
+      internalID: -554651248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_01
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6199c4a97ed8e6242944ae5006395243
+      internalID: 905849003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_02
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5fac954138e814da3532c553803928
+      internalID: 670748659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_03
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38247afc631e9d14089a9532ffd1b4b1
+      internalID: -1438036922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_04
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dfcb6896a21724b97d6e5dba4d45d4
+      internalID: 685711760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_05
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827eb7851d61d4c41b4e366c04942b5f
+      internalID: 624571108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_06
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092920ca6892df64b8d4470dc6ca38d8
+      internalID: -577036867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_07
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce5a8535147e9349b39214629c87c98
+      internalID: 2131744090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_08
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3216c9deefa2f99478f89a64db8095ab
+      internalID: -423752889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_05
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a78fdba88959c4b8113322ffef3699
+      internalID: 1969191869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_06
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04593bfbfacfb3147a16cf259b1a7d83
+      internalID: 1948722317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_07
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9280dcdd78dea439fc86543fc89cdc
+      internalID: 731745485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_08
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20944d222c9410140bb845cc96846e4f
+      internalID: 1340483521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_09
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e94c45944547742a37d26085031c4e
+      internalID: 768204462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc4d7213abcf844ebd4e69dc15814d1
+      internalID: 523165354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_11
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c68add93095ab4a86f70098558c17f
+      internalID: -984231034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_12
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b0d910bfadfe54daf5ef5cab601b3a
+      internalID: 993788187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_09
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773aba76c2fc83b4b9565e0e2e7e64de
+      internalID: 1583110146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_10
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae48b99e185ecb4ca5d6686e86c5f80
+      internalID: -2130999250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_11
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784f05507a523c040abf119b02efeda3
+      internalID: -23261604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed80371afc1dc76448b2704a2660b748
+      internalID: -65617441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93053cbc13eae584daa72dc377ba76e4
+      internalID: 722853922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81ce82d62cba96449303d8418658b51
+      internalID: 1254706881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_15
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd66fa5eedc425242b827c02edc15bbd
+      internalID: -464411775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_16
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75530320d62de8a4a96505cab1f551ee
+      internalID: -238735521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90e02125b808b044a69d9ce237304d0
+      internalID: -388732996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_14
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9c67be1ba1c4a488d1e6a608c92528
+      internalID: -797833486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_15
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda00f3d560b8d848b94a1240d7240ed
+      internalID: 886542243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_16
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677bf1561fd5aab43a78f1f547e7a179
+      internalID: -1279512300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9316db7e80d61714cb8ce396eff4880d
+      internalID: -1988332977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3072888b4437a084abc1ba46dc83cf2f
+      internalID: 583712212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_19
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99542ba8c9f15f40a8c06cff330dad4
+      internalID: 222577286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area01_Shrine_120
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f150738de2b0a4f8fea07c0b3592f9
+      internalID: -406757735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_17
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44150502603dc8468f719bb17e92092
+      internalID: -908551215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_18
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4868ade168ddf49ac75952d4e0f941
+      internalID: -25523169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_19
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e44daa561fd3f24ab127fe37437b943
+      internalID: -1846845936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Right_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f160ec8bc912f5747b7e7b9a7be1b8b7
+      internalID: -1057095597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_01
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b17763d0c2a904b80fce1e8f548976
+      internalID: -1385804961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_02
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7665c502234dc014cae9edbe09c4a70b
+      internalID: -1356785899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_03
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7faa1fa457eef1499d88ef7e72d838a
+      internalID: 1452300800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_04
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d101e310d28ff2e44b9b21518850ed2f
+      internalID: -286381256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_05
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9522efafa89020c42a45e804b8f0adb9
+      internalID: -613838874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_06
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a937c83fb85c645ae4e6e6b76c738d
+      internalID: -1740115969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_07
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3779bb0743a55a46b9d256a0702a924
+      internalID: 1819397291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_08
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9c2f8c657de8b4eb41ce39df81a917
+      internalID: -728120030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_09
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3b510c16140cb43aec65c0b3e31784
+      internalID: 1632406108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_10
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351ad88bd669bdd44aecea2e571c4d35
+      internalID: 484207691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_11
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30cb41658a6da946924f89c8dc28ca9
+      internalID: 18310469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_12
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cea1961f367c2f4699b1c30a5c95bed
+      internalID: -559557509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_13
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7289f2524cb36419a7d46016dd3a40
+      internalID: -250000071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_14
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c65a1c89be07742a69b16520a2606b
+      internalID: 1476149991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_15
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d06fdd3c70692b42a99daaeafec521f
+      internalID: 878137359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c5d6fbed5811e43b3291f1a4e4989d
+      internalID: -760759428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_17
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4181b0b46e81c2947a00b312b2254fe1
+      internalID: 766644626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_18
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debe33ae6a804a340bf12ca15bd695ce
+      internalID: 1425508354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_19
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c420a4e1c9f64f85e2842bf59cf5b
+      internalID: 1273150736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Shrine_Left_20
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4581b62081d8c4ca9401941367cc17
+      internalID: -1125561477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pedestal_05
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0779fb2de7701df4a98ee873c6357020
+      internalID: -571650928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pedestal_01
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d83a9f8eacc53b45a16fda7d4558d01
+      internalID: 24974535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pedestal_06
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086591a62b143eb4e8a0016c284ca1b3
+      internalID: 740253366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pedestal_02
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad37c288504ef941b9ac403d84799d8
+      internalID: -85079358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pedestal_03
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fdc65da4eede14d908055e56b9cd7a
+      internalID: -78320597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pedestal_07
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a414ba3ac683647af78bcae412185a
+      internalID: -946408081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pedestal_08
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8e0579ebb08bb4eb980abbca94d648
+      internalID: -940271187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pedestal_04
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e53ff627a3a72d41b0d76b4f0f22425
+      internalID: 117097057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_01
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 275
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9290ea1dc841484a90c1b61462856fd
+      internalID: 247590082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_01
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55da157cdab1df46a22411c08f31cf1
+      internalID: -1689214562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_02
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112baea758ea6da469d1e86fafe5598c
+      internalID: -1190638228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_03
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1e2fc6013aa0e4b838a3ba9bb6b702
+      internalID: -147539664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_04
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a58dc02eec1b542ac2aabc123c6525
+      internalID: -1985063671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_05
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce43189332002464ba713f0b4f38259b
+      internalID: -1704467220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_06
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2462fce8d0b38454cba350b9604b9c4f
+      internalID: -695285267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_07
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a20f892d1cdb541a90db43f6f6d7f7
+      internalID: -760387540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_08
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585f91691eddf3541b00351bf46a0fe3
+      internalID: 305237138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_09
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfe69c9a7a52bc41aea847e7d1f3f18
+      internalID: 296442722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_10
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c2899bc82f4064bb48f4373b03e832
+      internalID: -731614052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c819f11b894663547bd724bd848ee0e2
+      internalID: 1325792239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaab3ddb060e0349a01b060f7a41b00
+      internalID: 412768086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9178172b3b5d2bd41be0b82fa2a2410a
+      internalID: 682620073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_11
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3415b33c327efdb45aa5532ce63d8670
+      internalID: 462760691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e4b421e83687040806dfb6545bb3c0
+      internalID: 1822934995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325020cacda2f7b46a3faace859e6430
+      internalID: -132186755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_14
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966b763fbd34d3b4e863859327b22f73
+      internalID: 1805980586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_15
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa2771a765aabb4caa07caedd503566
+      internalID: 1420941424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_16
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66c2dac7e66a4947aabf1e7c8bafcd4
+      internalID: -911423941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_17
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e036637779ce0f4cbbdc0ec11dab944
+      internalID: -385323148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_18
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437486b8a9dfa3e42b14393020e11404
+      internalID: -1844115834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_19
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f1dbf698fa44b44929e045addfbc03
+      internalID: 2036144859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dddefa48ab664149a4611a053a9caca
+      internalID: 445723945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2857afc298440e41813c47720129ef6
+      internalID: 2094392691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5c7ef0954fb8445838078ffdfb1c69
+      internalID: 1506731921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87222b595c3003c4ca7a1a127706a431
+      internalID: 1794100966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446b6aecb46255246819a26da0c5f369
+      internalID: 193304891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab37c92805a248b419f6b9c81b8edb5c
+      internalID: 1792717854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_23
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711815428a3567d499f435ac6d969741
+      internalID: -1133625872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_24
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eba1c4699cf7c44a9d57c98a081fcfa
+      internalID: -2106147561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_25
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9c4bef89d66324aaa854434c15cf22
+      internalID: -1859163712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_26
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a8da5930c94414395b9abc5d389df9
+      internalID: -737449563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_27
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650fc1cc38b0c9c4f9bcded94ce7a247
+      internalID: -1989018838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_28
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6761f530753c1d6498c0576495a13e5e
+      internalID: 1420562613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_29
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26869cbb15b3de43ad679ae2c59a583
+      internalID: 1481078681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a2a2cc4eb3eb046bfb7c5b23771efb
+      internalID: 269408713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55f44bdbcff50f4fbab405800ee38cc
+      internalID: 721946932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82bb04bcab834c43b704923192931e7
+      internalID: 1752034139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1fb40e013899d4b8e911d2645d4ac2
+      internalID: -1227287692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ca4c6281d0b7a478d2325d0d92bfb8
+      internalID: -1363630003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a2b029e415a2945aea9d617ac67206
+      internalID: -69595563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a13a21b179c6a84aa134ef200ca4946
+      internalID: 1877514446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af191944da8e04eb165c33211ac793
+      internalID: -814929950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1d470ee611b27488f562d718025d7d
+      internalID: 301430686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1ec0cc25abaee448881b86ab3102c5
+      internalID: 1032816767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e752e8842abc7428550abfec2dffaa
+      internalID: 606559476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4292c1fcee1a0745b04fbf44464dc1c
+      internalID: -1329256230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e652af7ccdc5c4b87cc793f81b69c4
+      internalID: -585858529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c49223663f68c44388be4d1103a98f1
+      internalID: -895423915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6cb72fb9d7ea64293d7cfe8adb8058
+      internalID: 1829348093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ab741f10a05484c923eb84a8af65c1
+      internalID: 482324210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7476dc3a2ea76494cb67abd1244e9f01
+      internalID: 1926730759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a32875c0ae04b4586d23cb27e1a58a
+      internalID: 1957364337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b560881421b03a043ac624de1c4164b2
+      internalID: -976557373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a71a02f1fe303544a4be22085ff5b03
+      internalID: 1043262653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49668e2157922a9458005156496f3348
+      internalID: 761718604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a545c92f87408734ca98f7b7c4a6aa18
+      internalID: -1026030918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8f9c075837cb442937a5c826d40b07
+      internalID: -818941231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76625b069a353cf4a8828fcc42e89228
+      internalID: 837896132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f6d7ab92233424082f85964a708db3
+      internalID: -425861559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148588305222d9b41ac2d7949b8baef9
+      internalID: -2121877652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb61be381133f8b4ea0b2d99b11aaafc
+      internalID: -1987586192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a6ccc1f62532b4c96990e0119eed80
+      internalID: -456719309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8979860e6b2314e9ccef77b4e486db
+      internalID: -1536451058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1401f25c0056104383fc45360685178
+      internalID: -1066060025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe866c4edeec86249b84284c9c8af3f6
+      internalID: -464857526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa3cd188a2406543a5d3b06eee80705
+      internalID: -1059630738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a35cafce03a7ba4fbf4b5a67fd5bc5d
+      internalID: -1836996329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5a6ae1591f24b4cb680def92648e3b
+      internalID: 1711100979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_01
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b15f9c4f2a0e4284aa8af3088b067
+      internalID: -2090556759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_02
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f245b71c4206b740abf6a7c44e956fb
+      internalID: 1598549586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c9dfe9093172e4295d12496d840fa9
+      internalID: 1225556957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9c854afcd6c044899d385fc6173005
+      internalID: -1574121151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_03
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f43cd0f93a38f141a0eb2cd1f8b5156
+      internalID: 314852789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_04
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc70d3afbd494644bf6c621ebe1147c
+      internalID: -89909478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_05
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680ed863bb0a7a74fa4d8904ca63b1ec
+      internalID: 1989616362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d24a41459528434497124e8d0c1e599
+      internalID: 1694161273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e0aa03ed1ef144a8452128d52d285e
+      internalID: 1639569506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd2e3388286d2d44828d09ab69cc217
+      internalID: 1370363803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_06
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c6d393a3e2a90419d687a8e3316a1d
+      internalID: 309947856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_07
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39830ceeaaa1dac4496a42eefcd7c691
+      internalID: 1056249478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_08
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a793db3ab39555441832b7474d8e2df0
+      internalID: -350241232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfcb962ce3cf5e4690e7995cef171fc
+      internalID: -1143331457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc82d8e1a6ea56449f99a42c18aa848
+      internalID: 277747823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d567dafdc7b1474fa5fdb81131715a3
+      internalID: 2048384726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_09
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97753885846b7c5428d46e76c6248bf4
+      internalID: 1981651299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_10
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4add34da4fda9e34299d0ebd7a0bbf8a
+      internalID: 2033367981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cb19b55c2cf804f9899af062eca02f
+      internalID: -786833176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163dee9a4693d75448ba6507b5257169
+      internalID: -969305242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f7d88c2b635834eb953e2c67af10a7
+      internalID: -850066000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd58e46c2c757c428ee5197b46d9b5b
+      internalID: -1494028149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_12
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb8d83422441604f81bcf76251df8a4
+      internalID: -55395506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_13
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030394ef311763446b8649f5abbe7699
+      internalID: 116629575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b761280a8403147b6647d59f2dd5e1
+      internalID: -1882965664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c62978a9d9d5e45b5cf8bbef7bb1a3
+      internalID: 1621229110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08f1db4649519644942bbf98a8ee9c7
+      internalID: 1170411622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aa6f5f6349e7a49a6114e881849371
+      internalID: -1516785276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_15
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be43e92d940a80b418d58464ca3d198a
+      internalID: -702552945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_16
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d2904300ba8e34ca96fdafa953332c
+      internalID: -1436639965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e8b61e5cf0fa84c8c6f5f42b71460d
+      internalID: 644583853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a64b26a3204e64395fa99af0fa1abb
+      internalID: 945961988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de02806cb3a8ff4cbb834bbb5614775
+      internalID: -1006219679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6ba294e455d354eb3cdc8e159ba2ca
+      internalID: 1211097824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_18
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880bf6597dfb8384592c98ca30eceb54
+      internalID: -1571480339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_19
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd326552a65e6da4e83a9502844579be
+      internalID: -1355717209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6654774e4356265458c9ccee04b4df53
+      internalID: -255750101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632d26b50984cf840a2de2f1a2081c50
+      internalID: -1205985452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf37bc0e40feb84baec9d04c6b6c748
+      internalID: -179607074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5232c9813fbd1f347bdb93fb5ba2c0f1
+      internalID: 1375520780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_21
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565eb4ef453dd564d8b2cf214f3af53f
+      internalID: -2001858120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_22
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e080e58f908ba9409edd7faf3ab6569
+      internalID: 538110848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eee3a702b81cf488c9d6e0ce5858b3
+      internalID: -1154007400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd2b73d1664e154297fe3acf621eecf
+      internalID: -194154142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cf8831f13e160498d35a4e75667f52
+      internalID: -1816815293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11ec26f77588df498d0de78f8e2b51d
+      internalID: 259150082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_24
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8986fda5424581b469191d1d71c40461
+      internalID: 1027021349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Tank_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6700f592b0c06dc4999373b9af05be1c
+      internalID: 1559311794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ff69047d71ed743988b0878e805a67
+      internalID: -2115509855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BayTemple_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b5cbc04e838374abdd2da3f4814d20
+      internalID: 1974166834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_Clear_01
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18052940932c17428b1fe6ef82b4eb5
+      internalID: -466799751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_Clear_02
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e22881e179c814f8f2f10556c9b7a2
+      internalID: -1063193615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_Clear_03
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3171f47929bcb6349859f0a55aceff65
+      internalID: -1884783827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_Clear_04
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec10716833d0a344aae2840e599259c9
+      internalID: -403009862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_Clear_05
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa19e5e62c831b4f890a008e7bdb67e
+      internalID: -74546175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_Clear_06
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa3575549490a48bbe07e9ee9d668e
+      internalID: 541835727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_Clear_07
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f722e01ff2642e4d8103c29e33ec7f7
+      internalID: -440966293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_Clear_08
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d076c1e122892479952b94157a2b4d
+      internalID: -624054606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Pipe_Clear_09
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62b38264bca31f478dbafa5ba4fe877
+      internalID: -1539082578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -13099,6 +17152,26 @@ TextureImporter:
       Area01_Pillar_16: 299766034
       Area01_Secret_Left: -1242128814
       Area01_Secret_Right: 81882610
+      Area01_Shrine_01: -2116295357
+      Area01_Shrine_02: 1144444274
+      Area01_Shrine_03: 681564778
+      Area01_Shrine_04: -554651248
+      Area01_Shrine_05: 624571108
+      Area01_Shrine_06: -577036867
+      Area01_Shrine_07: 2131744090
+      Area01_Shrine_08: -423752889
+      Area01_Shrine_09: 768204462
+      Area01_Shrine_10: 523165354
+      Area01_Shrine_11: -984231034
+      Area01_Shrine_12: 993788187
+      Area01_Shrine_120: -406757735
+      Area01_Shrine_13: 722853922
+      Area01_Shrine_14: 1254706881
+      Area01_Shrine_15: -464411775
+      Area01_Shrine_16: -238735521
+      Area01_Shrine_17: -1988332977
+      Area01_Shrine_18: 583712212
+      Area01_Shrine_19: 222577286
       Area01_Statue_01: 409217965
       Area01_Statue_02: -957909706
       Area01_Statue_03: 327077893
@@ -13166,6 +17239,14 @@ TextureImporter:
       Area02_Candle_04: -1644121319
       Area02_Candle_05: 1370284168
       Area02_Candle_06: -46171212
+      Area02_Pedestal_01: 24974535
+      Area02_Pedestal_02: -85079358
+      Area02_Pedestal_03: -78320597
+      Area02_Pedestal_04: 117097057
+      Area02_Pedestal_05: -571650928
+      Area02_Pedestal_06: 740253366
+      Area02_Pedestal_07: -946408081
+      Area02_Pedestal_08: -940271187
       Area02_Pillar_01: -265623115
       Area02_Pillar_02: 303675565
       Area02_Pillar_03: -987491428
@@ -13182,16 +17263,120 @@ TextureImporter:
       Area02_Pillar_14: -526222119
       Area02_Pillar_15: -2082866643
       Area02_Pillar_16: -1636380047
+      Area02_Pipe_01: -1689214562
+      Area02_Pipe_02: -1190638228
+      Area02_Pipe_03: -147539664
+      Area02_Pipe_04: -1985063671
+      Area02_Pipe_05: -1704467220
+      Area02_Pipe_06: -695285267
+      Area02_Pipe_07: -760387540
+      Area02_Pipe_08: 305237138
+      Area02_Pipe_09: 296442722
+      Area02_Pipe_10: -731614052
+      Area02_Pipe_11: 462760691
+      Area02_Pipe_12: 1822934995
+      Area02_Pipe_13: -132186755
+      Area02_Pipe_14: 1805980586
+      Area02_Pipe_15: 1420941424
+      Area02_Pipe_16: -911423941
+      Area02_Pipe_17: -385323148
+      Area02_Pipe_18: -1844115834
+      Area02_Pipe_19: 2036144859
+      Area02_Pipe_20: 445723945
+      Area02_Pipe_21: 193304891
+      Area02_Pipe_22: 1792717854
+      Area02_Pipe_23: -1133625872
+      Area02_Pipe_24: -2106147561
+      Area02_Pipe_25: -1859163712
+      Area02_Pipe_26: -737449563
+      Area02_Pipe_27: -1989018838
+      Area02_Pipe_28: 1420562613
+      Area02_Pipe_29: 1481078681
+      Area02_Pipe_30: 269408713
+      Area02_Pipe_Clear_01: -466799751
+      Area02_Pipe_Clear_02: -1063193615
+      Area02_Pipe_Clear_03: -1884783827
+      Area02_Pipe_Clear_04: -403009862
+      Area02_Pipe_Clear_05: -74546175
+      Area02_Pipe_Clear_06: 541835727
+      Area02_Pipe_Clear_07: -440966293
+      Area02_Pipe_Clear_08: -624054606
+      Area02_Pipe_Clear_09: -1539082578
       Area02_Secret_Down: -2016887494
       Area02_Secret_Left: 693136943
       Area02_Secret_Right: -387375437
       Area02_Secret_Up: 1235064673
+      Area02_Shrine_Left_01: -1385804961
+      Area02_Shrine_Left_02: -1356785899
+      Area02_Shrine_Left_03: 1452300800
+      Area02_Shrine_Left_04: -286381256
+      Area02_Shrine_Left_05: -613838874
+      Area02_Shrine_Left_06: -1740115969
+      Area02_Shrine_Left_07: 1819397291
+      Area02_Shrine_Left_08: -728120030
+      Area02_Shrine_Left_09: 1632406108
+      Area02_Shrine_Left_10: 484207691
+      Area02_Shrine_Left_11: 18310469
+      Area02_Shrine_Left_12: -559557509
+      Area02_Shrine_Left_13: -250000071
+      Area02_Shrine_Left_14: 1476149991
+      Area02_Shrine_Left_15: 878137359
+      Area02_Shrine_Left_16: -760759428
+      Area02_Shrine_Left_17: 766644626
+      Area02_Shrine_Left_18: 1425508354
+      Area02_Shrine_Left_19: 1273150736
+      Area02_Shrine_Left_20: -1125561477
+      Area02_Shrine_Right_01: 905849003
+      Area02_Shrine_Right_02: 670748659
+      Area02_Shrine_Right_03: -1438036922
+      Area02_Shrine_Right_04: 685711760
+      Area02_Shrine_Right_05: 1969191869
+      Area02_Shrine_Right_06: 1948722317
+      Area02_Shrine_Right_07: 731745485
+      Area02_Shrine_Right_08: 1340483521
+      Area02_Shrine_Right_09: 1583110146
+      Area02_Shrine_Right_10: -2130999250
+      Area02_Shrine_Right_11: -23261604
+      Area02_Shrine_Right_12: -65617441
+      Area02_Shrine_Right_13: -388732996
+      Area02_Shrine_Right_14: -797833486
+      Area02_Shrine_Right_15: 886542243
+      Area02_Shrine_Right_16: -1279512300
+      Area02_Shrine_Right_17: -908551215
+      Area02_Shrine_Right_18: -25523169
+      Area02_Shrine_Right_19: -1846845936
+      Area02_Shrine_Right_20: -1057095597
       Area02_Statue_01: -1142990584
       Area02_Statue_02: 1632726982
       Area02_Statue_03: -825442242
       Area02_Statue_06: -2025928491
       Area02_Sword_01: 1304150967
       Area02_Sword_02: 1693463578
+      Area02_Tank_01: -2090556759
+      Area02_Tank_02: 1598549586
+      Area02_Tank_03: 314852789
+      Area02_Tank_04: -89909478
+      Area02_Tank_05: 1989616362
+      Area02_Tank_06: 309947856
+      Area02_Tank_07: 1056249478
+      Area02_Tank_08: -350241232
+      Area02_Tank_09: 1981651299
+      Area02_Tank_10: 2033367981
+      Area02_Tank_11: -786833176
+      Area02_Tank_12: -55395506
+      Area02_Tank_13: 116629575
+      Area02_Tank_14: -1882965664
+      Area02_Tank_15: -702552945
+      Area02_Tank_16: -1436639965
+      Area02_Tank_17: 644583853
+      Area02_Tank_18: -1571480339
+      Area02_Tank_19: -1355717209
+      Area02_Tank_20: -255750101
+      Area02_Tank_21: -2001858120
+      Area02_Tank_22: 538110848
+      Area02_Tank_23: -1154007400
+      Area02_Tank_24: 1027021349
+      Area02_Tank_25: 1559311794
       Area02_Tile_01: 432983998
       Area02_Tile_02: 141741586
       Area02_Tile_03: 1637320709
@@ -13308,6 +17493,10 @@ TextureImporter:
       AreaSecret_Tile_18: -1318246036
       AreaSecret_Tile_19: -412827265
       AreaSecret_Tile_20: 1235064673
+      BayTemple_SpriteSheet_10: 1325792239
+      BayTemple_SpriteSheet_100: 1974166834
+      BayTemple_SpriteSheet_11: 412768086
+      BayTemple_SpriteSheet_12: 682620073
       BayTemple_SpriteSheet_120: 2021424993
       BayTemple_SpriteSheet_121: -1736359985
       BayTemple_SpriteSheet_122: 1662188293
@@ -13332,16 +17521,20 @@ TextureImporter:
       BayTemple_SpriteSheet_197: -588482087
       BayTemple_SpriteSheet_198: -1769729607
       BayTemple_SpriteSheet_199: -1406531650
+      BayTemple_SpriteSheet_2: 1225556957
+      BayTemple_SpriteSheet_20: -1143331457
       BayTemple_SpriteSheet_200: -1401447668
       BayTemple_SpriteSheet_201: 1081288244
       BayTemple_SpriteSheet_202: 1368743548
       BayTemple_SpriteSheet_203: 939154779
       BayTemple_SpriteSheet_208: 1819266747
       BayTemple_SpriteSheet_209: 1497478180
+      BayTemple_SpriteSheet_21: 277747823
       BayTemple_SpriteSheet_214: -1280864106
       BayTemple_SpriteSheet_215: -1907732208
       BayTemple_SpriteSheet_218: -224341401
       BayTemple_SpriteSheet_219: 1901152509
+      BayTemple_SpriteSheet_22: 2048384726
       BayTemple_SpriteSheet_220: 609220250
       BayTemple_SpriteSheet_221: -1572940864
       BayTemple_SpriteSheet_222: 1298935002
@@ -13359,6 +17552,7 @@ TextureImporter:
       BayTemple_SpriteSheet_252: 2031954331
       BayTemple_SpriteSheet_257: 966751778
       BayTemple_SpriteSheet_258: -1321023089
+      BayTemple_SpriteSheet_26: -969305242
       BayTemple_SpriteSheet_261: -566118049
       BayTemple_SpriteSheet_262: -661270917
       BayTemple_SpriteSheet_263: 1163252971
@@ -13368,10 +17562,12 @@ TextureImporter:
       BayTemple_SpriteSheet_267: 652982156
       BayTemple_SpriteSheet_268: -1167500195
       BayTemple_SpriteSheet_269: -868139992
+      BayTemple_SpriteSheet_27: 2094392691
       BayTemple_SpriteSheet_270: -872962402
       BayTemple_SpriteSheet_275: -152289148
       BayTemple_SpriteSheet_276: -1379398630
       BayTemple_SpriteSheet_279: -529253294
+      BayTemple_SpriteSheet_28: 1506731921
       BayTemple_SpriteSheet_280: 2102738881
       BayTemple_SpriteSheet_281: -1684473865
       BayTemple_SpriteSheet_282: -613853362
@@ -13381,10 +17577,14 @@ TextureImporter:
       BayTemple_SpriteSheet_286: 866671185
       BayTemple_SpriteSheet_287: -1203664955
       BayTemple_SpriteSheet_288: -314884125
+      BayTemple_SpriteSheet_29: 1794100966
+      BayTemple_SpriteSheet_3: -1574121151
+      BayTemple_SpriteSheet_30: -850066000
       BayTemple_SpriteSheet_306: -672603789
       BayTemple_SpriteSheet_307: -422804582
       BayTemple_SpriteSheet_308: 1675218308
       BayTemple_SpriteSheet_309: 721898756
+      BayTemple_SpriteSheet_31: -1494028149
       BayTemple_SpriteSheet_314: 1535810874
       BayTemple_SpriteSheet_315: 236581479
       BayTemple_SpriteSheet_316: -1423865287
@@ -13407,13 +17607,16 @@ TextureImporter:
       BayTemple_SpriteSheet_345: -1496471454
       BayTemple_SpriteSheet_346: -456685848
       BayTemple_SpriteSheet_347: 1378440791
+      BayTemple_SpriteSheet_35: 1621229110
       BayTemple_SpriteSheet_351: 85213026
       BayTemple_SpriteSheet_352: -2021034394
       BayTemple_SpriteSheet_353: 1693547459
+      BayTemple_SpriteSheet_36: 1170411622
       BayTemple_SpriteSheet_366: -773333064
       BayTemple_SpriteSheet_367: -1703708373
       BayTemple_SpriteSheet_368: 303460208
       BayTemple_SpriteSheet_369: -2011630177
+      BayTemple_SpriteSheet_37: -1516785276
       BayTemple_SpriteSheet_370: -353500437
       BayTemple_SpriteSheet_371: -1819136181
       BayTemple_SpriteSheet_372: -1505633093
@@ -13434,6 +17637,7 @@ TextureImporter:
       BayTemple_SpriteSheet_393: 253750727
       BayTemple_SpriteSheet_394: 558788962
       BayTemple_SpriteSheet_395: -1392061865
+      BayTemple_SpriteSheet_40: 721946932
       BayTemple_SpriteSheet_400: 1098471086
       BayTemple_SpriteSheet_401: -2023317640
       BayTemple_SpriteSheet_402: -480496094
@@ -13442,6 +17646,7 @@ TextureImporter:
       BayTemple_SpriteSheet_405: 898079447
       BayTemple_SpriteSheet_408: -32976695
       BayTemple_SpriteSheet_409: 1854365859
+      BayTemple_SpriteSheet_41: 1752034139
       BayTemple_SpriteSheet_410: -1845821509
       BayTemple_SpriteSheet_411: 1677034556
       BayTemple_SpriteSheet_412: -567158288
@@ -13449,10 +17654,12 @@ TextureImporter:
       BayTemple_SpriteSheet_417: -103288156
       BayTemple_SpriteSheet_418: 785168260
       BayTemple_SpriteSheet_419: -1936021926
+      BayTemple_SpriteSheet_42: -1227287692
       BayTemple_SpriteSheet_426: 472970053
       BayTemple_SpriteSheet_427: 1981894006
       BayTemple_SpriteSheet_428: 1094638166
       BayTemple_SpriteSheet_429: -438772002
+      BayTemple_SpriteSheet_43: -1363630003
       BayTemple_SpriteSheet_430: -419500641
       BayTemple_SpriteSheet_431: 782229873
       BayTemple_SpriteSheet_432: -1574230159
@@ -13461,11 +17668,13 @@ TextureImporter:
       BayTemple_SpriteSheet_437: -1865790664
       BayTemple_SpriteSheet_438: -2037451554
       BayTemple_SpriteSheet_439: 2000495071
+      BayTemple_SpriteSheet_44: -69595563
       BayTemple_SpriteSheet_443: 182014856
       BayTemple_SpriteSheet_444: -1635484904
       BayTemple_SpriteSheet_445: 969163574
       BayTemple_SpriteSheet_448: 2059431040
       BayTemple_SpriteSheet_449: -645427282
+      BayTemple_SpriteSheet_45: 1877514446
       BayTemple_SpriteSheet_450: -657385167
       BayTemple_SpriteSheet_451: 1885258700
       BayTemple_SpriteSheet_452: 293114714
@@ -13476,6 +17685,7 @@ TextureImporter:
       BayTemple_SpriteSheet_457: -271951049
       BayTemple_SpriteSheet_458: -538056102
       BayTemple_SpriteSheet_459: -387409476
+      BayTemple_SpriteSheet_46: -814929950
       BayTemple_SpriteSheet_460: -1926226188
       BayTemple_SpriteSheet_461: -1334982804
       BayTemple_SpriteSheet_462: 450581000
@@ -13484,6 +17694,7 @@ TextureImporter:
       BayTemple_SpriteSheet_466: -454734381
       BayTemple_SpriteSheet_467: 2010361506
       BayTemple_SpriteSheet_468: 610866028
+      BayTemple_SpriteSheet_47: 301430686
       BayTemple_SpriteSheet_473: 348294258
       BayTemple_SpriteSheet_474: 899982337
       BayTemple_SpriteSheet_475: -508959915
@@ -13521,6 +17732,7 @@ TextureImporter:
       BayTemple_SpriteSheet_516: -159322750
       BayTemple_SpriteSheet_517: 1941931082
       BayTemple_SpriteSheet_519: -97464749
+      BayTemple_SpriteSheet_52: 1032816767
       BayTemple_SpriteSheet_520: 1452117106
       BayTemple_SpriteSheet_521: 571577537
       BayTemple_SpriteSheet_522: 2138960322
@@ -13531,6 +17743,7 @@ TextureImporter:
       BayTemple_SpriteSheet_527: -122073709
       BayTemple_SpriteSheet_528: 232772815
       BayTemple_SpriteSheet_529: -1800188092
+      BayTemple_SpriteSheet_53: 606559476
       BayTemple_SpriteSheet_530: -1795293521
       BayTemple_SpriteSheet_531: -2093783990
       BayTemple_SpriteSheet_532: -117132316
@@ -13541,6 +17754,7 @@ TextureImporter:
       BayTemple_SpriteSheet_537: -1147165959
       BayTemple_SpriteSheet_538: -2077267973
       BayTemple_SpriteSheet_539: -1059300086
+      BayTemple_SpriteSheet_54: -1329256230
       BayTemple_SpriteSheet_540: 495069594
       BayTemple_SpriteSheet_541: 28527106
       BayTemple_SpriteSheet_544: 381785240
@@ -13549,6 +17763,7 @@ TextureImporter:
       BayTemple_SpriteSheet_547: -2053171195
       BayTemple_SpriteSheet_548: -1825143750
       BayTemple_SpriteSheet_549: -1082078473
+      BayTemple_SpriteSheet_55: -585858529
       BayTemple_SpriteSheet_552: -308203090
       BayTemple_SpriteSheet_553: -2132988653
       BayTemple_SpriteSheet_554: -260295821
@@ -13557,6 +17772,7 @@ TextureImporter:
       BayTemple_SpriteSheet_557: 609634429
       BayTemple_SpriteSheet_558: -553338248
       BayTemple_SpriteSheet_559: 458687105
+      BayTemple_SpriteSheet_56: -895423915
       BayTemple_SpriteSheet_560: -227856207
       BayTemple_SpriteSheet_561: -1523715305
       BayTemple_SpriteSheet_562: 1619355691
@@ -13565,6 +17781,7 @@ TextureImporter:
       BayTemple_SpriteSheet_567: 931665083
       BayTemple_SpriteSheet_568: 578798707
       BayTemple_SpriteSheet_569: 769631677
+      BayTemple_SpriteSheet_57: 1829348093
       BayTemple_SpriteSheet_570: -1580601555
       BayTemple_SpriteSheet_571: -575143149
       BayTemple_SpriteSheet_574: -297724360
@@ -13572,6 +17789,7 @@ TextureImporter:
       BayTemple_SpriteSheet_576: -518399417
       BayTemple_SpriteSheet_577: -1512192713
       BayTemple_SpriteSheet_578: -1986361249
+      BayTemple_SpriteSheet_58: 482324210
       BayTemple_SpriteSheet_583: 1330424493
       BayTemple_SpriteSheet_584: 630673046
       BayTemple_SpriteSheet_585: 2060191434
@@ -13579,12 +17797,14 @@ TextureImporter:
       BayTemple_SpriteSheet_587: 167339232
       BayTemple_SpriteSheet_588: 177170534
       BayTemple_SpriteSheet_589: -174424263
+      BayTemple_SpriteSheet_59: 1926730759
       BayTemple_SpriteSheet_590: -897622995
       BayTemple_SpriteSheet_591: 2142803403
       BayTemple_SpriteSheet_592: -250631856
       BayTemple_SpriteSheet_593: -596101345
       BayTemple_SpriteSheet_594: -2070493041
       BayTemple_SpriteSheet_599: 811229914
+      BayTemple_SpriteSheet_60: 1957364337
       BayTemple_SpriteSheet_600: 2136604152
       BayTemple_SpriteSheet_601: 7946235
       BayTemple_SpriteSheet_602: -1917092758
@@ -13593,6 +17813,7 @@ TextureImporter:
       BayTemple_SpriteSheet_605: -399950967
       BayTemple_SpriteSheet_606: 2014225397
       BayTemple_SpriteSheet_609: -634060415
+      BayTemple_SpriteSheet_61: -976557373
       BayTemple_SpriteSheet_610: 146935710
       BayTemple_SpriteSheet_611: 1188267403
       BayTemple_SpriteSheet_612: 1954002326
@@ -13601,15 +17822,43 @@ TextureImporter:
       BayTemple_SpriteSheet_615: 631919828
       BayTemple_SpriteSheet_616: 487914886
       BayTemple_SpriteSheet_619: -6089498
+      BayTemple_SpriteSheet_62: 1043262653
       BayTemple_SpriteSheet_620: 224349136
       BayTemple_SpriteSheet_621: 183752715
       BayTemple_SpriteSheet_622: 2054875659
       BayTemple_SpriteSheet_623: -1086469862
       BayTemple_SpriteSheet_624: -399258097
+      BayTemple_SpriteSheet_63: 761718604
+      BayTemple_SpriteSheet_64: -1026030918
+      BayTemple_SpriteSheet_65: -818941231
+      BayTemple_SpriteSheet_66: 837896132
+      BayTemple_SpriteSheet_67: -425861559
+      BayTemple_SpriteSheet_68: -2121877652
+      BayTemple_SpriteSheet_69: -1987586192
+      BayTemple_SpriteSheet_7: 1694161273
+      BayTemple_SpriteSheet_70: -456719309
+      BayTemple_SpriteSheet_71: -1536451058
+      BayTemple_SpriteSheet_72: -1066060025
+      BayTemple_SpriteSheet_73: -464857526
+      BayTemple_SpriteSheet_74: -1059630738
+      BayTemple_SpriteSheet_75: -1836996329
+      BayTemple_SpriteSheet_76: 1711100979
+      BayTemple_SpriteSheet_78: 945961988
+      BayTemple_SpriteSheet_79: -1006219679
+      BayTemple_SpriteSheet_8: 1639569506
+      BayTemple_SpriteSheet_80: 1211097824
       BayTemple_SpriteSheet_84: -781010342
       BayTemple_SpriteSheet_85: 2086359817
       BayTemple_SpriteSheet_86: -1619310983
       BayTemple_SpriteSheet_87: -854105668
+      BayTemple_SpriteSheet_88: -1205985452
+      BayTemple_SpriteSheet_89: -179607074
+      BayTemple_SpriteSheet_9: 1370363803
+      BayTemple_SpriteSheet_90: 1375520780
+      BayTemple_SpriteSheet_94: -194154142
+      BayTemple_SpriteSheet_95: -1816815293
+      BayTemple_SpriteSheet_96: 259150082
+      BayTemple_SpriteSheet_99: -2115509855
       FinalTorch_Left_01: 444304915
       FinalTorch_Left_02: -1720542659
       FinalTorch_Left_03: 1524454583
@@ -13636,6 +17885,7 @@ TextureImporter:
       KeyHole_Area03: -1927148488
       KeyHole_Area04: -1664817563
       KeyHole_Area05: -514483337
+      Key_01: 247590082
       SecretShrine_01: -1030792040
       SecretShrine_02: 1032045479
       SecretShrine_03: 1686725823
