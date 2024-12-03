@@ -64,7 +64,7 @@ public class PlayerMovment : MonoBehaviour
 
     private void Flip() { transform.localScale = new Vector3(1 * horizontal, 1, 1); }
 
-    private bool IsGrounded() { return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer); }
+    private bool IsGrounded() { return Physics2D.OverlapCircle(groundCheck.position, 0.5f, groundLayer); }
 
     #region InputControls
     private void Move(InputAction.CallbackContext context)
