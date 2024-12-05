@@ -17091,7 +17091,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Area02_Gate_Up
+      name: Area02_Gate_Up_01
       rect:
         serializedVersion: 2
         x: 912
@@ -17112,7 +17112,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Area02_Gate_Down
+      name: Area02_Gate_Down_01
       rect:
         serializedVersion: 2
         x: 912
@@ -17133,15 +17133,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WaterGate_Top
+      name: WaterGate_Top_01
       rect:
         serializedVersion: 2
-        x: 944
+        x: 960
         y: 240
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -17154,15 +17154,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WaterGate_Middle
+      name: WaterGate_Middle_01
       rect:
         serializedVersion: 2
-        x: 944
+        x: 960
         y: 224
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -17175,10 +17175,73 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WaterGate_Bottom
+      name: WaterGate_Bottom_01
       rect:
         serializedVersion: 2
-        x: 944
+        x: 960
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f004b291544757a41a94fd81f02d0d3a
+      internalID: -1750145620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterGate_Top_02
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dfb48ec9d450d41818e657c432ccb8
+      internalID: -2123502425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterGate_Middle_02
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304799fe27774a942b4517fba9ac586f
+      internalID: -2080759907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterGate_Bottom_02
+      rect:
+        serializedVersion: 2
+        x: 976
         y: 208
         width: 16
         height: 16
@@ -17189,8 +17252,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f004b291544757a41a94fd81f02d0d3a
-      internalID: -1750145620
+      spriteID: 96a90b6bb3b8bce4582752eb119bfd3a
+      internalID: 860174566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Gate_Up_02
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fb4b1259b400e4e8ea7e5e40359ec1
+      internalID: 1076413316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Area02_Gate_Down_02
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cea3ba3bd8d184c953c0186c70c7f9
+      internalID: -1304585729
       vertices: []
       indices: 
       edges: []
@@ -17344,8 +17449,10 @@ TextureImporter:
       Area02_Candle_04: -1644121319
       Area02_Candle_05: 1370284168
       Area02_Candle_06: -46171212
-      Area02_Gate_Down: 883307722
-      Area02_Gate_Up: -362750830
+      Area02_Gate_Down_01: 883307722
+      Area02_Gate_Down_02: -1304585729
+      Area02_Gate_Up_01: -362750830
+      Area02_Gate_Up_02: 1076413316
       Area02_Pedestal_01: 24974535
       Area02_Pedestal_02: -85079358
       Area02_Pedestal_03: -78320597
@@ -18036,9 +18143,12 @@ TextureImporter:
       Shrine_Right_18: 166579793
       Shrine_Right_19: -1372829074
       Shrine_Right_20: 1048376157
-      WaterGate_Bottom: -1750145620
-      WaterGate_Middle: -440230079
-      WaterGate_Top: -1738995942
+      WaterGate_Bottom_01: -1750145620
+      WaterGate_Bottom_02: 860174566
+      WaterGate_Middle_01: -440230079
+      WaterGate_Middle_02: -2080759907
+      WaterGate_Top_01: -1738995942
+      WaterGate_Top_02: -2123502425
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

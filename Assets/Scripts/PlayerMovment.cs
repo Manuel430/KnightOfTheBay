@@ -1,5 +1,7 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -28,6 +30,8 @@ public class PlayerMovment : MonoBehaviour
     [SerializeField] float dashPower;
     [SerializeField] float dashTime;
     [SerializeField] float dashCooldown;
+    [SerializeField] float dashBoost;
+    float baseTime;
 
     #region Cutscene
     public bool SetCutscene(bool inCutscene)
@@ -62,6 +66,8 @@ public class PlayerMovment : MonoBehaviour
         playerControls.Player.Dash.performed += Dash;
 
         originLayer = gameObject.layer;
+
+        baseTime = dashTime;
 
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
@@ -145,13 +151,35 @@ public class PlayerMovment : MonoBehaviour
         float originalGravity = rBody.gravityScale;
         rBody.gravityScale = 0f;
         rBody.velocity = new Vector2(transform.localScale.x * dashPower, 0f);
-        yield return new WaitForSeconds(dashTime);
+
+        //yield return new WaitForSeconds(dashTime);
+        while (dashTime >= 0f)
+        {
+            dashTime -= Time.deltaTime;
+            yield return null;
+        }
+
+        dashTime = baseTime;
 
         rBody.gravityScale = originalGravity;
         isDashing = false;
         gameObject.layer = originLayer;
+
         yield return new WaitForSeconds(dashCooldown);
 
         canDash = true;
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("WaterGate") && isDashing)
+        {
+            ExtendTime(0.1f);
+        }
+    }
+
+    private void ExtendTime(float addTime)
+    {
+        dashTime += addTime;
     }
 }
