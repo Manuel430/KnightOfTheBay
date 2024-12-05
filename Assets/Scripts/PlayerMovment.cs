@@ -6,6 +6,7 @@ using UnityEngine.InputSystem;
 public class PlayerMovment : MonoBehaviour
 {
     [Header("Outside Inputs")]
+    [SerializeField] ItemCheck itemCheck;
     [SerializeField] Transform groundCheck;
     [SerializeField] LayerMask groundLayer;
     Rigidbody2D rBody;
@@ -16,6 +17,17 @@ public class PlayerMovment : MonoBehaviour
     [SerializeField] float jumpPower;
     [SerializeField] bool doubleJump;
     float horizontal;
+
+    [Header("Layer")]
+    [SerializeField] int dashLayer;
+    int originLayer;
+
+    [Header("Dash")]
+    [SerializeField] bool canDash;
+    [SerializeField] bool isDashing;
+    [SerializeField] float dashPower;
+    [SerializeField] float dashTime;
+    [SerializeField] float dashCooldown;
 
     #region Cutscene
     public bool SetCutscene(bool inCutscene)
@@ -47,6 +59,10 @@ public class PlayerMovment : MonoBehaviour
         playerControls.Player.Jump.performed += Jump;
         playerControls.Player.Jump.canceled += Jump;
 
+        playerControls.Player.Dash.performed += Dash;
+
+        originLayer = gameObject.layer;
+
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
 
@@ -54,6 +70,11 @@ public class PlayerMovment : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if(isDashing)
+        {
+            return;
+        }
+
         rBody.velocity = new Vector2(horizontal * playerSpeed, rBody.velocity.y);
 
         if(IsGrounded())
@@ -88,7 +109,7 @@ public class PlayerMovment : MonoBehaviour
             rBody.velocity = new Vector2(rBody.velocity.x, jumpPower);
         }
 
-        if(context.performed && !IsGrounded() && doubleJump)
+        if(context.performed && !IsGrounded() && doubleJump && !isDashing)
         {
             rBody.velocity = new Vector2(rBody.velocity.x, jumpPower);
             doubleJump = false;
@@ -99,5 +120,38 @@ public class PlayerMovment : MonoBehaviour
             rBody.velocity = new Vector2(rBody.velocity.x, rBody.velocity.y * 0.5f);
         }
     }
+
+    private void Dash(InputAction.CallbackContext context)
+    {
+        if(!itemCheck.GetDashCheck())
+        {
+            Debug.LogError("Cannot Dash");
+            return;
+        }
+
+        if(context.performed && canDash)
+        {
+            StartCoroutine(DashMovement());
+        }
+    }
+
     #endregion
+
+    private IEnumerator DashMovement()
+    {
+        canDash = false;
+        isDashing = true;
+        gameObject.layer = dashLayer;
+        float originalGravity = rBody.gravityScale;
+        rBody.gravityScale = 0f;
+        rBody.velocity = new Vector2(transform.localScale.x * dashPower, 0f);
+        yield return new WaitForSeconds(dashTime);
+
+        rBody.gravityScale = originalGravity;
+        isDashing = false;
+        gameObject.layer = originLayer;
+        yield return new WaitForSeconds(dashCooldown);
+
+        canDash = true;
+    }
 }
