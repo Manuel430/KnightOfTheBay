@@ -164,9 +164,10 @@ MonoBehaviour:
   dashLayer: 7
   canDash: 1
   isDashing: 0
-  dashPower: 30
+  dashPower: 40
   dashTime: 0.2
   dashCooldown: 0.4
+  dashBoost: 10
 --- !u!114 &8140210121511572460
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -211,7 +212,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0f8a66f63ecae3478ba82b2b839cc45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canDash: 1
+  canDash: 0
 --- !u!1 &3196218474795537030
 GameObject:
   m_ObjectHideFlags: 0
