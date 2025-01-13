@@ -83,6 +83,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemID: 0
   playerHealth: {fileID: 0}
+  itemCheck: {fileID: 0}
+  itemSprite: {fileID: 0}
+  collectedUI: {fileID: 8532452142460004944}
 --- !u!1 &8532452142460004944
 GameObject:
   m_ObjectHideFlags: 0

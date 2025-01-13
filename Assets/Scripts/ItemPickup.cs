@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class ItemPickup : MonoBehaviour
 {
@@ -11,6 +12,25 @@ public class ItemPickup : MonoBehaviour
     [Header("Add-Ons")]
     [SerializeField] PlayerHealth playerHealth;
     [SerializeField] ItemCheck itemCheck;
+
+    [Header("UI")]
+    [SerializeField] GameObject collectedUI;
+    PlayerControls playerControls;
+    PlayerMovment playerMovment;
+    PauseGame pauseGame;
+
+    private void Awake()
+    {
+        collectedUI.SetActive(false);
+        
+        playerControls = new PlayerControls();
+
+        playerControls.UI.Enable();
+        playerControls.UI.Confirm.performed += Confirm;
+
+        playerMovment = FindObjectOfType<PlayerMovment>();
+        pauseGame = FindObjectOfType<PauseGame>();
+    }
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
@@ -33,5 +53,10 @@ public class ItemPickup : MonoBehaviour
         }
 
         Destroy(gameObject);
+    }
+
+    private void Confirm(InputAction.CallbackContext context)
+    {
+
     }
 }
